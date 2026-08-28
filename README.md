@@ -70,36 +70,43 @@ The main software task currently underway is improving the data collection syste
 
 After the data collection system is sufficiently reliable, the next major stage of the project will be to run a SLAM algorithm on the collected data to estimate the trajectory of the device.
 
-## Media
+## Pictures
+First Model
 
-### Prototype
+Superglued together, with cameras that required software rotation and were oriented vertically instead of horizontally.
 
-![Raspberry Pi used in the device](Pictures/raspberrypi.jpg)
+<img src="Pictures/oldModelHandHeld.png" alt="Early handheld prototype" width="300">
 
-![Stereo camera setup](Pictures/Cameras.webp)
+Handheld demonstration of the old shell with the original viewing software. Capture rate was less than 30 Hz.
 
-![Completed device plugged in](Pictures/completeDevicePluggedIn.jpg)
+<img src="Pictures/usage.gif" alt="Demonstration of the device in use" width="400">
+Case Development
 
-![Device with the top shell removed](Pictures/deviceNoTopShell.jpg)
+Multiple case designs were tested before settling on the final clamshell design.
 
-![Both sides of the 3D-printed housing](Pictures/BothSidesOfShell.jpg)
+<img src="Pictures/ShellVersions.jpg" alt="Different versions of the device housing" width="300">
+Final Clamshell Design
 
-### Housing Development
+CAD design of the final device housing.
 
-![Early handheld prototype](Pictures/oldModelHandHeld.png)
+<img src="Pictures/CADscreenshot.png" alt="CAD design of the device housing" width="400">
 
-![Different versions of the device housing](Pictures/ShellVersions.jpg)
+3D-printed version of the final housing.
 
-![CAD design of the device housing](Pictures/CADscreenshot.png)
+<img src="Pictures/shell3dPrinting.jpg" alt="3D printing the device housing" width="300">
+Software
 
-![3D printing the device housing](Pictures/shell3dPrinting.jpg)
+Current viewing tool.
 
-### Software
+<img src="Pictures/stereoImageViewerGUI.png" alt="Stereo image viewer graphical user interface" width="500">
 
-![Stereo image viewer graphical user interface](Pictures/stereoImageViewerGUI.png)
+Work in progress: rotation collection using the IMU6050.
 
-### Demonstrations
+<img src="Pictures/rotationDemo.gif" alt="Device rotation demonstration" width="400">
 
-![Demonstration of the device in use](Pictures/usage.gif)
 
-![Device rotation demonstration](Pictures/rotationDemo.mp4)
+
+
+
+
+
