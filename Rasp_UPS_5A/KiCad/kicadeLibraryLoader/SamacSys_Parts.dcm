@@ -1,0 +1,147 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS25730DREFR
+D USB Interface IC TPS25730DREFR SARUMAN BG MCM
+K
+F https://www.ti.com/lit/ds/symlink/tps25730.pdf?ts=1707773923998&ref_url=https%253A%252F%252Fwww.mouser.at%252F
+$ENDCMP
+#
+$CMP TPS56837RPAR
+D 8-A Synchronous Buck Converter
+K
+F https://www.ti.com/lit/gpn/tps56837
+$ENDCMP
+#
+$CMP TPS259814LRPWR
+D Hot Swap Voltage Controllers 2.7-V to 16-V 10-A 6-mohm eFuse with t
+K
+F https://www.ti.com/lit/ds/symlink/tps25981.pdf?ts=1739940909741&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS25981%252Fpart-details%252FTPS259814LRPWR
+$ENDCMP
+#
+$CMP BQ24133RGYR
+D Synchronous Switch-Mode Li-Ion and Li-Polymer Stand-Alone Battery Charger
+K
+F http://www.ti.com/lit/gpn/BQ24133
+$ENDCMP
+#
+$CMP BQ7791501PWR
+D Battery Management 3-Series to 5-Series Stackable Ultra-Low-Power Primary Protector With Autonomous Cell Balancing 24-TSSOP -40 to 85
+K
+F https://www.ti.com/lit/gpn/BQ77915
+$ENDCMP
+#
+$CMP AON7407
+D MOSFET P-CH 20V 14.5A 8DFN
+K
+F http://aosmd.com/res/data_sheets/AON7407.pdf
+$ENDCMP
+#
+$CMP CSD17577Q5AT
+D 30V, N ch NexFET MOSFET, single SON5x6, 5.8mOhm
+K
+F http://www.ti.com/lit/gpn/CSD17577Q5A
+$ENDCMP
+#
+$CMP SRP1038A-3R3M
+D Bourns SRP1038A Series Type 1038 Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 3.3 H +/-20% Wire-Wound
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP1038A.pdf
+$ENDCMP
+#
+$CMP SRP5030TA-6R8M
+D Bourns SRP5030TA Series Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 6.8 H Wire-Wound 4A Idc Q:15
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP5030TA.pdf
+$ENDCMP
+#
+$CMP SC1122-01ETG
+D ESD Protection Diodes / TVS Diodes 22 V 60 pF 9 A SOD882
+K
+F https://www.littelfuse.com/assetdocs/tvs-diode-array-sc1122-01etg-series-datasheet?assetguid=0f23fd9f-46a7-47f7-bd27-4b354786c9d7
+$ENDCMP
+#
+$CMP BK-18650-PC6
+D HOLDER BATT LI-ION 3CELL 6PC PIN
+K
+F http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC6-datasheet.pdf
+$ENDCMP
+#
+$CMP SRP7050TA-1R5M
+D Bourns SRP7050TA Series Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 1.5 uH 12A Idc Q:15
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP7050TA.pdf
+$ENDCMP
+#
+$CMP SS54-HF
+D DIODE SCHOTTKY 5A 40V SMA
+K
+F https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf
+$ENDCMP
+#
+$CMP LM74700QDBVRQ1
+D Low Iq, ideal diode controller
+K
+F http://www.ti.com/lit/gpn/LM74700-Q1
+$ENDCMP
+#
+$CMP B2P-VH
+D CONN HEADER VH TOP 2POS 3.96MM
+K
+F http://www.jst-mfg.com/product/pdf/eng/eVH.pdf
+$ENDCMP
+#
+$CMP 1101A4CQEA
+D SWITCH SLIDE SPDT 5A 120VAC
+K
+F https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/1000.pdf
+$ENDCMP
+#
+$CMP USB4970-00-A
+D USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Right Angle; Through Hole
+K
+F https://gct.co/connector/usb4970
+$ENDCMP
+#
+$CMP USB-AP-S-RA
+D USB-A (USB TYPE-A) USB 2.0 Plug Connector 4 Position Through Hole, Right Angle,-20C ~ 60C,,1A,30VAC
+K
+F https://app.adam-tech.com/products/download/data_sheet/195860/usb-ap-s-ra-data-sheet.pdf
+$ENDCMP
+#
+$CMP USB1130-15-A
+D USB Connectors USB A 2.0 Skt RA High Life 15u" T Hole W/Shell Stake T & R
+K
+F https://gct.co/files/drawings/usb1130.pdf?v=af75e0ab-3313-4c97-a925-9953a1c7de6b
+$ENDCMP
+#
+$CMP LTC4162EUFD-L40#PBF
+D Li-Ion/Polymer Battery Charger with Termination n Wide Charging Input Voltage Range: 4.5V to 35V n High Efficiency Synchronous Operation n 16-Bit Digital Telemetry System Monitors VBAT, IBAT, RBAT, TBAT, TDIE, VIN, IIN, VOUT n Charges 1-8 Lithium-Ion/Polymer Cells n Input Undervoltage Charge Current Limit Loop n Input MPPT for Solar Panel Inputs n Input Current Limit Prioritizes System Load Output n Low Loss PowerPath n Instant-On Operation with Discharged or Missing Battery n JEITA Temperature
+K
+F https://www.arrow.com/en/products/ltc4162eufd-l40pbf/analog-devices
+$ENDCMP
+#
+$CMP LTC4162EUFD-LADM#PBF
+D Battery Management 35V/3.2A Multi-Cell Lithium-Ion Step-Down Battery Charger with PowerPath and I2C Telemetry
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4162-L.pdf
+$ENDCMP
+#
+$CMP SRP5030TA-4R7M
+D 4.7 H Shielded Drum Core, Wirewound Inductor 4.6 A 53mOhm Max Nonstandard , 23 MHz , -40C ~ 150C
+K
+F https://bourns.com/docs/product-datasheets/SRP5030TA.pdf
+$ENDCMP
+#
+$CMP LTC4162IUFD-LADM#PBF
+D Battery Management 35V/3.2A Multi-Cell Lithium-Ion Step-Down Battery Charger with PowerPath and I2C Telemetry
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4162-l.pdf
+$ENDCMP
+#
+#End Doc Library
