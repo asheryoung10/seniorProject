@@ -74,18 +74,7 @@ def captureStereoData(output_file_location):
                 lgpio.gpio_write(gpio, GPIO, 1)
                 lgpio.gpio_write(gpio, GPIO, 0)
 
-            # -------------------------------------------------
-            # Hardware trigger mode
-            # -------------------------------------------------
-            trigger_bin = OV9281_DIR / "ov9281_trigger"
-
-            os.system(
-                f"{trigger_bin} 10 1"
-            )
-
-            os.system(
-                f"{trigger_bin} 11 1"
-            )
+           
 
             # -------------------------------------------------
             # Cameras
@@ -129,6 +118,19 @@ def captureStereoData(output_file_location):
             right_cam.start()
 
             time.sleep(1)
+
+             # -------------------------------------------------
+            # Hardware trigger mode
+            # -------------------------------------------------
+            trigger_bin = OV9281_DIR / "ov9281_trigger"
+
+            os.system(
+                f"{trigger_bin} 10 1"
+            )
+
+            os.system(
+                f"{trigger_bin} 11 1"
+            )
 
             print(
                 "Stereo cameras ready",
@@ -372,20 +374,24 @@ def captureStereoData(output_file_location):
                 flush=True,
             )
 
-            for cam in (
-                left_cam,
-                right_cam,
-            ):
+                        # -----------------------------------------------------
+            # Stop and RELEASE cameras so a later recording can
+            # create Picamera2 objects again.
+            # -----------------------------------------------------
+            print("Closing stereo cameras...", flush=True)
+
+            for cam in (left_cam, right_cam):
                 if cam is not None:
                     try:
-                        cam.stop()
+                        cam.close()
                     except Exception as e:
                         print(
-                            f"Camera shutdown error: {e}",
+                            f"Camera close error: {e}",
                             flush=True,
                         )
 
-            # -----------------------------------------------------
+            left_cam = None
+            right_cam = None            # -----------------------------------------------------
             # GPIO cleanup
             # -----------------------------------------------------
             if gpio is not None:

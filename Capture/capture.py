@@ -2,11 +2,11 @@ from imuThread import captureQuatData
 from stereoThread import captureStereoData
 
 imu_stop, imu_thread = captureQuatData(
-    "/mnt/camdata/quaternion.csv"
+    "/home/team/Desktop/camdata/quaternion.csv"
 )
 
 stereo_stop, stereo_thread = captureStereoData(
-    "/mnt/camdata/stereo.bin"
+    "/home/team/Desktop/camdata/stereo.bin"
 )
 
 try:

@@ -20,7 +20,7 @@ from picamera2 import Picamera2
 # ---------------------------------------------------------
 # Output
 # ---------------------------------------------------------
-OUTPUT_FILE = "/mnt/camdata/recording.bin"
+OUTPUT_FILE = "/home/team/Desktop/camdata/recording.bin"
 
 
 # ---------------------------------------------------------
