@@ -1,0 +1,2047 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'IC3:SamacSys_Parts:TPS56A37RPAR'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'IC4:SamacSys_Parts:TPS259470ARPWR'.
+Info: Processing symbol 'IC1:SamacSys_Parts:TPS25730DREFR'.
+Info: Processing symbol 'IC2:SamacSys_Parts:SOP65P640X120-24N'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D9:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D11:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D18:Diode_SMD:D_SMF'.
+Info: Processing symbol 'C56:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H4:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D20:SOD3716X135N'.
+Info: Processing symbol 'D6:SamacSys_Parts:SC112201ETG'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'JP5:Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D23:SOD3716X135N'.
+Info: Processing symbol 'J4:SamacSys_Parts:USB113015A'.
+Info: Processing symbol 'H5:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'D22:SOD3716X135N'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D4:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J5:SamacSys_Parts:SHDR2W114P0X396_1X2_786X850X940P'.
+Info: Processing symbol 'D15:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D16:Diode_SMD:D_SMF'.
+Info: Processing symbol 'D7:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'C37:CAPAE530X550N'.
+Info: Processing symbol 'L1:SamacSys_Parts:INDPM5752X300N'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D8:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H7:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D19:SamacSys_Parts:DIOM5025X220N'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'IC5:SamacSys_Parts:SOT95P280X145-6N'.
+Info: Processing symbol 'C59:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H6:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'D21:SOD3716X135N'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'JP4:Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm'.
+Info: Processing symbol 'D5:SamacSys_Parts:SC112201ETG'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J1:SamacSys_Parts:USB497000A'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'L2:SamacSys_Parts:INDPM110100X400N'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:TDSON-8-1'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:TDSON-8-1'.
+Info: Processing symbol 'Q3:SamacSys_Parts:DFN_3X3_EP'.
+Info: Processing symbol 'Q4:Package_TO_SOT_SMD:TDSON-8-1'.
+Info: Processing symbol 'Q5:Package_TO_SOT_SMD:TDSON-8-1'.
+Info: Processing symbol 'Q6:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q7:SamacSys_Parts:CSD17310Q5A'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_2010_5025Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_2512_6332Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R53:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R60:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R61:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R62:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R63:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile'.
+Info: Processing symbol 'U1:Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'.
+Info: Processing symbol 'U2:Package_DFN_QFN:Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm'.
+Info: Processing symbol 'U3:SamacSys_Parts:BK18650PC6'.
+Updated C7 sheetname to '/USB-PD/'.
+Updated C7 sheetfile to 'USB-PD.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to /USB-PD/PPHV.
+Connected C7 pin 2 to GND.
+Updated C7 unit metadata.
+Added C8 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0805_2012Metric to 10uF.
+Updated C8 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/a6118b63-c014-4ea4-9d0d-7d68af6021ca.
+Updated C8 fields.
+Updated C8 sheetname to '/USB-PD/'.
+Updated C8 sheetfile to 'USB-PD.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 1 to /USB-PD/PPHV.
+Connected C8 pin 2 to GND.
+Updated C8 unit metadata.
+Added C9 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0805_2012Metric to 10uF.
+Updated C9 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/4781f770-83fb-4cbf-95e1-50409d7f2e43.
+Updated C9 fields.
+Updated C9 sheetname to '/USB-PD/'.
+Updated C9 sheetfile to 'USB-PD.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to /USB-PD/LDO_3V3.
+Updated C9 unit metadata.
+Added C10 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0805_2012Metric to 4.7uF.
+Updated C10 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/8c6d01c2-b6c9-4e37-b5fb-0842b6a044f9.
+Updated C10 fields.
+Updated C10 sheetname to '/USB-PD/'.
+Updated C10 sheetfile to 'USB-PD.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 1 to /USB-PD/LDO_1V5.
+Connected C10 pin 2 to GND.
+Updated C10 unit metadata.
+Added C11 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0805_2012Metric to 220pF.
+Updated C11 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/abae53c1-6c6b-46fa-b805-fd9fd52d69e4.
+Updated C11 fields.
+Updated C11 sheetname to '/USB-PD/'.
+Updated C11 sheetfile to 'USB-PD.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Connected C11 pin 2 to GND.
+Connected C11 pin 1 to /USB-PD/CC2.
+Updated C11 unit metadata.
+Added C12 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0805_2012Metric to 220pF.
+Updated C12 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/751a3452-ee06-4933-bc2e-49077e04a6aa.
+Updated C12 fields.
+Updated C12 sheetname to '/USB-PD/'.
+Updated C12 sheetfile to 'USB-PD.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Connected C12 pin 2 to GND.
+Connected C12 pin 1 to /USB-PD/CC1.
+Updated C12 unit metadata.
+Added C13 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C13.
+Changed C13 value from C_0805_2012Metric to 2.2uF.
+Updated C13 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/f2b4e421-a8ca-4f9d-99d7-bc018c674141.
+Updated C13 fields.
+Updated C13 sheetname to '/Battery_Charger/'.
+Updated C13 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Connected C13 pin 2 to GND.
+Connected C13 pin 1 to Net-(C13-Pad1).
+Updated C13 unit metadata.
+Added C14 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C14.
+Changed C14 value from C_0805_2012Metric to 0.1uF.
+Updated C14 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/3b8a1768-6623-4c12-85de-2520ef8c0f5c.
+Updated C14 fields.
+Updated C14 sheetname to '/Battery_Charger/'.
+Updated C14 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 2 to /Battery_Charger/SYSTEM.
+Connected C14 pin 1 to Net-(Q2-D).
+Updated C14 unit metadata.
+Added C15 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0805_2012Metric to 0.1uF.
+Updated C15 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/8c83f58d-3621-490b-b2fb-d088244b6b01.
+Updated C15 fields.
+Updated C15 sheetname to '/Battery_Charger/'.
+Updated C15 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 2 to GND.
+Connected C15 pin 1 to /Battery_Charger/SYSTEM.
+Updated C15 unit metadata.
+Added C16 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C16.
+Changed C16 value from C_0805_2012Metric to 10uF.
+Updated C16 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/ecd8307f-5bfd-4f5d-8f0f-74ee263c5142.
+Updated C16 fields.
+Updated C16 sheetname to '/Battery_Charger/'.
+Updated C16 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Connected C16 pin 1 to /Battery_Charger/SYSTEM.
+Connected C16 pin 2 to GND.
+Updated C16 unit metadata.
+Added C17 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C17.
+Changed C17 value from C_0805_2012Metric to 1uF.
+Updated C17 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/ff49fc76-01ea-440b-8607-6e7b80acc92b.
+Updated C17 fields.
+Updated C17 sheetname to '/Battery_Charger/'.
+Updated C17 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 2 to GND.
+Connected C17 pin 1 to /Battery_Charger/AVCC.
+Updated C17 unit metadata.
+Added C18 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C18.
+Changed C18 value from C_0805_2012Metric to 0.1uF.
+Updated C18 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/94df0b6e-962b-458b-9cfa-c91063c8aed8.
+Updated C18 fields.
+Updated C18 sheetname to '/Battery_Charger/'.
+Updated C18 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Connected C18 pin 1 to /Battery_Charger/TTC.
+Connected C18 pin 2 to GND.
+Updated C18 unit metadata.
+Added C19 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0805_2012Metric to 1uF.
+Updated C19 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/8a458404-0121-4404-8fd7-7b5266ee4813.
+Updated C19 fields.
+Updated C19 sheetname to '/Battery_Charger/'.
+Updated C19 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Connected C19 pin 1 to Net-(U2-REGN).
+Connected C19 pin 2 to GND.
+Updated C19 unit metadata.
+Added C20 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_0805_2012Metric to 1uF.
+Updated C20 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/d529d1a8-3daf-4699-9fc7-b1ec8956f257.
+Updated C20 fields.
+Updated C20 sheetname to '/Battery_Charger/'.
+Updated C20 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C20 footprint filters to 'C_*'.
+Connected C20 pin 2 to GND.
+Connected C20 pin 1 to /Battery_Charger/VREF.
+Updated C20 unit metadata.
+Added C21 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_0805_2012Metric to 0.047UF.
+Updated C21 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/3c312290-f29c-45ad-8349-64e87bf6be3b.
+Updated C21 fields.
+Updated C21 sheetname to '/Battery_Charger/'.
+Updated C21 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C21 footprint filters to 'C_*'.
+Connected C21 pin 2 to /Battery_Charger/SW.
+Connected C21 pin 1 to /Battery_Charger/BTST.
+Updated C21 unit metadata.
+Added C22 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_0805_2012Metric to 0.1uF.
+Updated C22 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/6c006f60-8722-4669-93f9-2a372fa498ab.
+Updated C22 fields.
+Updated C22 sheetname to '/Battery_Charger/'.
+Updated C22 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C22 footprint filters to 'C_*'.
+Connected C22 pin 1 to Net-(U2-SRP).
+Add net /Battery_Charger/PACK+.
+Connected C22 pin 2 to /Battery_Charger/PACK+.
+Updated C22 unit metadata.
+Added C23 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_0805_2012Metric to 0.1uF.
+Updated C23 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/f8dea5f6-9bfb-48b0-bc56-afb3ee7d9b7a.
+Updated C23 fields.
+Updated C23 sheetname to '/Battery_Charger/'.
+Updated C23 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C23 footprint filters to 'C_*'.
+Connected C23 pin 2 to Net-(U2-SRP).
+Connected C23 pin 1 to GND.
+Updated C23 unit metadata.
+Added C24 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_0805_2012Metric to 10uF.
+Updated C24 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/b5c35b54-f1b5-4b28-874c-3f5056a1ac03.
+Updated C24 fields.
+Updated C24 sheetname to '/Battery_Charger/'.
+Updated C24 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C24 footprint filters to 'C_*'.
+Connected C24 pin 1 to GND.
+Connected C24 pin 2 to /Battery_Charger/PACK+.
+Updated C24 unit metadata.
+Added C25 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C25.
+Changed C25 value from C_0805_2012Metric to 10uF.
+Updated C25 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/308bcdbf-f884-4e91-917e-70e03abed2b1.
+Updated C25 fields.
+Updated C25 sheetname to '/Battery_Charger/'.
+Updated C25 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C25 footprint filters to 'C_*'.
+Added C25 'Do not place' fabrication attribute.
+Connected C25 pin 1 to GND.
+Connected C25 pin 2 to /Battery_Charger/PACK+.
+Updated C25 unit metadata.
+Added C26 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C26.
+Changed C26 value from C_0805_2012Metric to 0.1 uF.
+Updated C26 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/f5af2a52-f460-4694-a0ad-ab16880a305d.
+Updated C26 fields.
+Updated C26 sheetname to '/Battery_Protection/'.
+Updated C26 sheetfile to 'Battery.kicad_sch'.
+Updated C26 footprint filters to 'C_*'.
+Connected C26 pin 2 to Net-(IC2-VC0).
+Connected C26 pin 1 to -BATT.
+Updated C26 unit metadata.
+Added C27 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C27.
+Changed C27 value from C_0805_2012Metric to 1uF.
+Updated C27 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/044169ca-5862-420e-b7b6-ecf0966989cb.
+Updated C27 fields.
+Updated C27 sheetname to '/Battery_Protection/'.
+Updated C27 sheetfile to 'Battery.kicad_sch'.
+Updated C27 footprint filters to 'C_*'.
+Connected C27 pin 1 to /Battery_Protection/AVDD.
+Connected C27 pin 2 to -BATT.
+Updated C27 unit metadata.
+Added C28 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C28.
+Changed C28 value from C_0805_2012Metric to 1uF.
+Updated C28 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/e765f304-d303-4aca-8d3f-d88488a64019.
+Updated C28 fields.
+Updated C28 sheetname to '/Battery_Protection/'.
+Updated C28 sheetfile to 'Battery.kicad_sch'.
+Updated C28 footprint filters to 'C_*'.
+Connected C28 pin 1 to Net-(IC2-VDD).
+Connected C28 pin 2 to -BATT.
+Updated C28 unit metadata.
+Added C29 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C29.
+Changed C29 value from C_0805_2012Metric to 0.1 uF.
+Updated C29 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8adc17ec-88dd-41c5-89af-877810397982.
+Updated C29 fields.
+Updated C29 sheetname to '/Battery_Protection/'.
+Updated C29 sheetfile to 'Battery.kicad_sch'.
+Updated C29 footprint filters to 'C_*'.
+Connected C29 pin 1 to Net-(IC2-VC1).
+Connected C29 pin 2 to -BATT.
+Updated C29 unit metadata.
+Added C30 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C30.
+Changed C30 value from C_0805_2012Metric to 0.1 uF.
+Updated C30 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/7d7ddd13-b2bb-476c-9808-3e5844cd478f.
+Updated C30 fields.
+Updated C30 sheetname to '/Battery_Protection/'.
+Updated C30 sheetfile to 'Battery.kicad_sch'.
+Updated C30 footprint filters to 'C_*'.
+Connected C30 pin 1 to Net-(IC2-VC2).
+Connected C30 pin 2 to Net-(IC2-VC1).
+Updated C30 unit metadata.
+Added C31 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C31.
+Changed C31 value from C_0805_2012Metric to 0.1 uF.
+Updated C31 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8ed64857-c072-4f75-80f5-b65511a475bb.
+Updated C31 fields.
+Updated C31 sheetname to '/Battery_Protection/'.
+Updated C31 sheetfile to 'Battery.kicad_sch'.
+Updated C31 footprint filters to 'C_*'.
+Connected C31 pin 2 to Net-(IC2-VC2).
+Connected C31 pin 1 to Net-(IC2-VC3).
+Updated C31 unit metadata.
+Added C32 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C32.
+Changed C32 value from C_0805_2012Metric to 4.7nF.
+Updated C32 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/5f546e15-5dc7-431d-a73b-4f6f5b600708.
+Updated C32 fields.
+Updated C32 sheetname to '/Battery_Charger/'.
+Updated C32 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C32 footprint filters to 'C_*'.
+Connected C32 pin 2 to Net-(Q1-G).
+Connected C32 pin 1 to /USB-PD/PPHV.
+Updated C32 unit metadata.
+Added C33 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C33.
+Changed C33 value from C_0805_2012Metric to 0.1uF.
+Updated C33 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/700bd84a-bfc6-43fa-aa5b-11bb3fd069ef.
+Updated C33 fields.
+Updated C33 sheetname to '/Battery_Protection/'.
+Updated C33 sheetfile to 'Battery.kicad_sch'.
+Updated C33 footprint filters to 'C_*'.
+Connected C33 pin 2 to -BATT.
+Connected C33 pin 1 to Net-(IC2-SRN).
+Updated C33 unit metadata.
+Added C34 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C34.
+Changed C34 value from C_0805_2012Metric to 0.1uF.
+Updated C34 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/9be9d6f9-628e-4ebf-9356-7fffb55450ce.
+Updated C34 fields.
+Updated C34 sheetname to '/Battery_Protection/'.
+Updated C34 sheetfile to 'Battery.kicad_sch'.
+Updated C34 footprint filters to 'C_*'.
+Connected C34 pin 2 to Net-(IC2-SRN).
+Connected C34 pin 1 to Net-(IC2-SRP).
+Updated C34 unit metadata.
+Added C35 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C35.
+Changed C35 value from C_0805_2012Metric to 0.1uF.
+Updated C35 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/465d5311-998e-4c28-946b-d83613ad4ebd.
+Updated C35 fields.
+Updated C35 sheetname to '/Battery_Protection/'.
+Updated C35 sheetfile to 'Battery.kicad_sch'.
+Updated C35 footprint filters to 'C_*'.
+Connected C35 pin 1 to -BATT.
+Connected C35 pin 2 to Net-(IC2-SRP).
+Updated C35 unit metadata.
+Added C36 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C36.
+Changed C36 value from C_0805_2012Metric to 47nF.
+Updated C36 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/d5f63c80-9c59-4a58-b6dd-285484f84bf9.
+Updated C36 fields.
+Updated C36 sheetname to '/Battery_Charger/'.
+Updated C36 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated C36 footprint filters to 'C_*'.
+Connected C36 pin 2 to Net-(Q1-G).
+Connected C36 pin 1 to Net-(C36-Pad1).
+Updated C36 unit metadata.
+Added C37 (footprint 'CAPAE530X550N').
+Changed C** reference designator to C37.
+Changed C37 value from CAPAE530X550N to 875105242006.
+Updated C37 symbol association from  to /6681fe07-2cd7-43f8-b1d7-ebd04e7bc489.
+Updated C37 fields.
+Updated C37 sheetname to '/'.
+Updated C37 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected C37 pin 1 to GND.
+Connected C37 pin 2 to /Ideal Diode/VOUT.
+Updated C37 unit metadata.
+Added C38 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C38.
+Changed C38 value from C_0805_2012Metric to 0.1uF.
+Updated C38 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/00eb8fbf-dd2d-453a-8239-e16015fccea5.
+Updated C38 fields.
+Updated C38 sheetname to '/Buck/'.
+Updated C38 sheetfile to 'Buck.kicad_sch'.
+Updated C38 footprint filters to 'C_*'.
+Connected C38 pin 2 to Net-(IC3-SW).
+Connected C38 pin 1 to Net-(IC3-BOOT).
+Updated C38 unit metadata.
+Added C39 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C39.
+Changed C39 value from C_0805_2012Metric to 150pF.
+Updated C39 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/b812fd78-4f0b-44f0-87d5-4bfe6fb44a19.
+Updated C39 fields.
+Updated C39 sheetname to '/Buck/'.
+Updated C39 sheetfile to 'Buck.kicad_sch'.
+Updated C39 footprint filters to 'C_*'.
+Connected C39 pin 2 to Net-(C39-Pad2).
+Connected C39 pin 1 to Net-(IC3-FB).
+Updated C39 unit metadata.
+Added C40 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C40.
+Changed C40 value from C_0805_2012Metric to 22uF.
+Updated C40 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/d81b25a4-dfb1-4c27-b3f7-1d71e6d18d0b.
+Updated C40 fields.
+Updated C40 sheetname to '/Buck/'.
+Updated C40 sheetfile to 'Buck.kicad_sch'.
+Updated C40 footprint filters to 'C_*'.
+Connected C40 pin 1 to GND.
+Connected C40 pin 2 to /Buck/VOUT.
+Updated C40 unit metadata.
+Added C41 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C41.
+Changed C41 value from C_0805_2012Metric to 22uF.
+Updated C41 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/90532c7f-bef0-4353-8537-265bef0e56a0.
+Updated C41 fields.
+Updated C41 sheetname to '/Buck/'.
+Updated C41 sheetfile to 'Buck.kicad_sch'.
+Updated C41 footprint filters to 'C_*'.
+Connected C41 pin 2 to /Buck/VOUT.
+Connected C41 pin 1 to GND.
+Updated C41 unit metadata.
+Added C42 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C42.
+Changed C42 value from C_0805_2012Metric to 47nF.
+Updated C42 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/adee3bf0-2f43-46e5-ad34-dfaf5fc7fe69.
+Updated C42 fields.
+Updated C42 sheetname to '/Buck/'.
+Updated C42 sheetfile to 'Buck.kicad_sch'.
+Updated C42 footprint filters to 'C_*'.
+Connected C42 pin 2 to GND.
+Connected C42 pin 1 to /Buck/SS.
+Updated C42 unit metadata.
+Added C43 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C43.
+Changed C43 value from C_0805_2012Metric to 10uF.
+Updated C43 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/1c6fc481-807e-4d02-a9ce-271d356590dc.
+Updated C43 fields.
+Updated C43 sheetname to '/Buck/'.
+Updated C43 sheetfile to 'Buck.kicad_sch'.
+Updated C43 footprint filters to 'C_*'.
+Connected C43 pin 2 to GND.
+Connected C43 pin 1 to /Battery_Charger/SYSTEM.
+Updated C43 unit metadata.
+Added C44 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C44.
+Changed C44 value from C_0805_2012Metric to 0.1uF.
+Updated C44 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/015f8085-ffe0-4792-98a5-312555d0c473.
+Updated C44 fields.
+Updated C44 sheetname to '/Buck/'.
+Updated C44 sheetfile to 'Buck.kicad_sch'.
+Updated C44 footprint filters to 'C_*'.
+Connected C44 pin 2 to GND.
+Connected C44 pin 1 to /Battery_Charger/SYSTEM.
+Updated C44 unit metadata.
+Added C45 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C45.
+Changed C45 value from C_0805_2012Metric to 10uF.
+Updated C45 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/55a594fb-60d0-4574-ac06-503c3f739a38.
+Updated C45 fields.
+Updated C45 sheetname to '/Buck/'.
+Updated C45 sheetfile to 'Buck.kicad_sch'.
+Updated C45 footprint filters to 'C_*'.
+Connected C45 pin 1 to /Battery_Charger/SYSTEM.
+Connected C45 pin 2 to GND.
+Updated C45 unit metadata.
+Added C46 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C46.
+Changed C46 value from C_0805_2012Metric to 22uF.
+Updated C46 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/551140b7-e9e7-4ec5-8c28-9a049cde8522.
+Updated C46 fields.
+Updated C46 sheetname to '/Buck/'.
+Updated C46 sheetfile to 'Buck.kicad_sch'.
+Updated C46 footprint filters to 'C_*'.
+Connected C46 pin 2 to /Buck/VOUT.
+Connected C46 pin 1 to GND.
+Updated C46 unit metadata.
+Added C47 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C47.
+Changed C47 value from C_0805_2012Metric to 22uF.
+Updated C47 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/f5a91b20-668c-4fb5-bc27-4658e12b5e28.
+Updated C47 fields.
+Updated C47 sheetname to '/Buck/'.
+Updated C47 sheetfile to 'Buck.kicad_sch'.
+Updated C47 footprint filters to 'C_*'.
+Connected C47 pin 2 to /Buck/VOUT.
+Connected C47 pin 1 to GND.
+Updated C47 unit metadata.
+Added C49 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C49.
+Changed C49 value from C_0805_2012Metric to 1nF.
+Updated C49 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/299672be-9be6-4bf5-888b-01c45adc886d.
+Updated C49 fields.
+Updated C49 sheetname to '/EFuse/'.
+Updated C49 sheetfile to 'EFuse.kicad_sch'.
+Updated C49 footprint filters to 'C_*'.
+Connected C49 pin 2 to /EFuse/ITIMER.
+Connected C49 pin 1 to GND.
+Updated C49 unit metadata.
+Added C50 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C50.
+Changed C50 value from C_0805_2012Metric to 3.3nF.
+Updated C50 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/a94e978e-ace3-4f25-b530-14d50697ead1.
+Updated C50 fields.
+Updated C50 sheetname to '/EFuse/'.
+Updated C50 sheetfile to 'EFuse.kicad_sch'.
+Updated C50 footprint filters to 'C_*'.
+Connected C50 pin 2 to /EFuse/DVDT.
+Connected C50 pin 1 to GND.
+Updated C50 unit metadata.
+Added C51 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C51.
+Changed C51 value from C_0805_2012Metric to 1uF.
+Updated C51 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/ec46e4fe-e8c1-4e04-ad06-b247268d5999.
+Updated C51 fields.
+Updated C51 sheetname to '/EFuse/'.
+Updated C51 sheetfile to 'EFuse.kicad_sch'.
+Updated C51 footprint filters to 'C_*'.
+Connected C51 pin 2 to /Buck/VOUT.
+Connected C51 pin 1 to GND.
+Updated C51 unit metadata.
+Added C52 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C52.
+Changed C52 value from C_0805_2012Metric to 20uF.
+Updated C52 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/9425b6e8-99bc-4d1e-9776-b102e2cb8a78.
+Updated C52 fields.
+Updated C52 sheetname to '/Buck/'.
+Updated C52 sheetfile to 'Buck.kicad_sch'.
+Updated C52 footprint filters to 'C_*'.
+Connected C52 pin 2 to GND.
+Connected C52 pin 1 to /Battery_Charger/SYSTEM.
+Updated C52 unit metadata.
+Added C53 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C53.
+Changed C53 value from C_0805_2012Metric to 10uF.
+Updated C53 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/f9cc58c4-8a0e-4c65-ab68-d8da80fa5dae.
+Updated C53 fields.
+Updated C53 sheetname to '/EFuse/'.
+Updated C53 sheetfile to 'EFuse.kicad_sch'.
+Updated C53 footprint filters to 'C_*'.
+Connected C53 pin 1 to GND.
+Add net /EFuse/EFuse_Power_Out.
+Connected C53 pin 2 to /EFuse/EFuse_Power_Out.
+Updated C53 unit metadata.
+Added C54 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C54.
+Changed C54 value from C_0805_2012Metric to 0.1uF.
+Updated C54 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/cd118602-1611-41e8-bce3-a9afe85f06d3.
+Updated C54 fields.
+Updated C54 sheetname to '/Ideal Diode/'.
+Updated C54 sheetfile to 'IdealDiode.kicad_sch'.
+Updated C54 footprint filters to 'C_*'.
+Connected C54 pin 2 to GND.
+Connected C54 pin 1 to /EFuse/EFuse_Power_Out.
+Updated C54 unit metadata.
+Added C55 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C55.
+Changed C55 value from C_0805_2012Metric to 0.1uF.
+Updated C55 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/dcdd7b84-a352-4135-8648-3c3f1d163f5f.
+Updated C55 fields.
+Updated C55 sheetname to '/EFuse/'.
+Updated C55 sheetfile to 'EFuse.kicad_sch'.
+Updated C55 footprint filters to 'C_*'.
+Connected C55 pin 1 to GND.
+Connected C55 pin 2 to /Buck/VOUT.
+Updated C55 unit metadata.
+Added C56 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C56.
+Changed C56 value from C_0805_2012Metric to 0.1uF.
+Updated C56 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/9ffc5e01-a047-407e-be58-7de18a90ccd9.
+Updated C56 fields.
+Updated C56 sheetname to '/EFuse/'.
+Updated C56 sheetfile to 'EFuse.kicad_sch'.
+Updated C56 footprint filters to 'C_*'.
+Connected C56 pin 1 to GND.
+Connected C56 pin 2 to /EFuse/EFuse_Power_Out.
+Updated C56 unit metadata.
+Added C57 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C57.
+Changed C57 value from C_0805_2012Metric to 0.1uF.
+Updated C57 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/c94ae486-b7d8-4256-a98b-2fd2a9b35bb3.
+Updated C57 fields.
+Updated C57 sheetname to '/Ideal Diode/'.
+Updated C57 sheetfile to 'IdealDiode.kicad_sch'.
+Updated C57 footprint filters to 'C_*'.
+Connected C57 pin 2 to Net-(IC5-VCAP).
+Connected C57 pin 1 to /EFuse/EFuse_Power_Out.
+Updated C57 unit metadata.
+Added C59 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C59.
+Changed C59 value from C_0805_2012Metric to 0.1uF.
+Updated C59 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/72809b79-384e-4c9f-ad36-c1083401c14f.
+Updated C59 fields.
+Updated C59 sheetname to '/Ideal Diode/'.
+Updated C59 sheetfile to 'IdealDiode.kicad_sch'.
+Updated C59 footprint filters to 'C_*'.
+Connected C59 pin 2 to GND.
+Connected C59 pin 1 to /Ideal Diode/VOUT.
+Updated C59 unit metadata.
+Added C60 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C60.
+Changed C60 value from C_0805_2012Metric to 0.1uF.
+Updated C60 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/77ed6253-6d39-4193-b92b-801a70edbd63.
+Updated C60 fields.
+Updated C60 sheetname to '/Ideal Diode/'.
+Updated C60 sheetfile to 'IdealDiode.kicad_sch'.
+Updated C60 footprint filters to 'C_*'.
+Connected C60 pin 2 to GND.
+Connected C60 pin 1 to /Ideal Diode/VOUT.
+Updated C60 unit metadata.
+Added D4 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D4.
+Changed D4 value from D_SMA_Handsoldering to 40V.
+Updated D4 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/6ddacfb5-7654-44a3-9e92-a7a296f7f7f2.
+Updated D4 fields.
+Updated D4 sheetname to '/USB-PD/'.
+Updated D4 sheetfile to 'USB-PD.kicad_sch'.
+Updated D4 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D4 pin 2 to GND.
+Connected D4 pin 1 to /USB-PD/VBUS.
+Updated D4 unit metadata.
+Added D5 (footprint 'SamacSys_Parts:SC112201ETG').
+Changed D** reference designator to D5.
+Changed D5 value from SC112201ETG to SC1122-01ETG.
+Updated D5 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/06af6558-76d2-430e-8bc0-444d58bf3d90.
+Updated D5 fields.
+Updated D5 sheetname to '/USB-PD/'.
+Updated D5 sheetfile to 'USB-PD.kicad_sch'.
+Connected D5 pin 1 to /USB-PD/CC2.
+Connected D5 pin 2 to GND.
+Updated D5 unit metadata.
+Added D6 (footprint 'SamacSys_Parts:SC112201ETG').
+Changed D** reference designator to D6.
+Changed D6 value from SC112201ETG to SC1122-01ETG.
+Updated D6 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/f0221c60-671a-4da0-bfc2-7fe10b759e9b.
+Updated D6 fields.
+Updated D6 sheetname to '/USB-PD/'.
+Updated D6 sheetfile to 'USB-PD.kicad_sch'.
+Connected D6 pin 1 to /USB-PD/CC1.
+Connected D6 pin 2 to GND.
+Updated D6 unit metadata.
+Added D8 (footprint 'LED_SMD:LED_0805_2012Metric').
+Changed REF** reference designator to D8.
+Changed D8 value from LED_0805_2012Metric to LED.
+Updated D8 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/04cb4501-9dbb-4bdd-b870-5b2d9da71dda.
+Updated D8 fields.
+Updated D8 sheetname to '/Buck/'.
+Updated D8 sheetfile to 'Buck.kicad_sch'.
+Updated D8 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D8 pin 2 to Net-(D8-A).
+Connected D8 pin 1 to /Buck/PG.
+Updated D8 unit metadata.
+Added D11 (footprint 'Diode_SMD:D_SOD-123F').
+Changed REF** reference designator to D11.
+Changed D11 value from D_SOD-123F to BZT52Bxx.
+Updated D11 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/eeb7abc3-3811-4bdb-becd-157264e58167.
+Updated D11 fields.
+Updated D11 sheetname to '/Battery_Protection/'.
+Updated D11 sheetfile to 'Battery.kicad_sch'.
+Updated D11 footprint filters to 'D?SOD?123F*'.
+Connected D11 pin 2 to GND.
+Connected D11 pin 1 to Net-(D11-K).
+Updated D11 unit metadata.
+Added D16 (footprint 'Diode_SMD:D_SMF').
+Changed REF** reference designator to D16.
+Changed D16 value from D_SMF to SMF7V5A.
+Updated D16 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/beb3e8e8-6de6-495c-93c6-78fb5cd9e588.
+Updated D16 fields.
+Updated D16 sheetname to '/EFuse/'.
+Updated D16 sheetfile to 'EFuse.kicad_sch'.
+Updated D16 footprint filters to 'D*SMF*'.
+Connected D16 pin 2 to GND.
+Connected D16 pin 1 to /Buck/VOUT.
+Updated D16 unit metadata.
+Added D18 (footprint 'Diode_SMD:D_SMF').
+Changed REF** reference designator to D18.
+Changed D18 value from D_SMF to SMF7V5A.
+Updated D18 symbol association from  to /826c0614-94a9-40f9-8ddf-8b70ab8e977b.
+Updated D18 fields.
+Updated D18 sheetname to '/'.
+Updated D18 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Updated D18 footprint filters to 'D*SMF*'.
+Connected D18 pin 1 to /Ideal Diode/VOUT.
+Connected D18 pin 2 to GND.
+Updated D18 unit metadata.
+Added D19 (footprint 'SamacSys_Parts:DIOM5025X220N').
+Changed D** reference designator to D19.
+Changed D19 value from DIOM5025X220N to SS54-HF.
+Updated D19 symbol association from  to /bb491e74-62ba-47ae-a472-d8873711a552.
+Updated D19 fields.
+Updated D19 sheetname to '/'.
+Updated D19 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected D19 pin 2 to GND.
+Connected D19 pin 1 to /Ideal Diode/VOUT.
+Updated D19 unit metadata.
+Added D20 (footprint 'SOD3716X135N').
+Changed D** reference designator to D20.
+Changed D20 value from SOD3716X135N to BAT46W-TP-B002.
+Updated D20 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/49bfb5a0-d971-469e-a012-9964bfae913c.
+Updated D20 fields.
+Updated D20 sheetname to '/Battery_Protection/'.
+Updated D20 sheetfile to 'Battery.kicad_sch'.
+Connected D20 pin 1 to Net-(D11-K).
+Connected D20 pin 2 to Net-(D20-A).
+Updated D20 unit metadata.
+Added D21 (footprint 'SOD3716X135N').
+Changed D** reference designator to D21.
+Changed D21 value from SOD3716X135N to BAT46W-TP-B002.
+Updated D21 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8b571a02-bb9b-4342-9938-10a84e5c8e3a.
+Updated D21 fields.
+Updated D21 sheetname to '/Battery_Protection/'.
+Updated D21 sheetfile to 'Battery.kicad_sch'.
+Added D21 'Do not place' fabrication attribute.
+Connected D21 pin 1 to Net-(D21-K).
+Connected D21 pin 2 to GND.
+Updated D21 unit metadata.
+Added D22 (footprint 'SOD3716X135N').
+Changed D** reference designator to D22.
+Changed D22 value from SOD3716X135N to BAT46W-TP-B002.
+Updated D22 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/dc602431-689e-4b2b-bb2c-84494a725baa.
+Updated D22 fields.
+Updated D22 sheetname to '/Battery_Charger/'.
+Updated D22 sheetfile to 'Battery_Charger.kicad_sch'.
+Connected D22 pin 1 to Net-(D22-K).
+Connected D22 pin 2 to /Battery_Charger/PACK+.
+Updated D22 unit metadata.
+Added D23 (footprint 'SOD3716X135N').
+Changed D** reference designator to D23.
+Changed D23 value from SOD3716X135N to BAT46W-TP-B002.
+Updated D23 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/757889ee-c240-4e18-9167-0709c0380218.
+Updated D23 fields.
+Updated D23 sheetname to '/Battery_Charger/'.
+Updated D23 sheetfile to 'Battery_Charger.kicad_sch'.
+Connected D23 pin 2 to /USB-PD/PPHV.
+Connected D23 pin 1 to Net-(D22-K).
+Updated D23 unit metadata.
+Added H4 (footprint 'MountingHole_3.2mm_M3').
+Changed REF** reference designator to H4.
+Changed H4 value from MountingHole_3.2mm_M3 to MountingHole.
+Updated H4 symbol association from  to /5e734e0e-f81a-444e-b58f-0da1b8837c78.
+Updated H4 fields.
+Updated H4 sheetname to '/'.
+Updated H4 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Updated H4 footprint filters to 'MountingHole*'.
+Removed H4 'exclude from position files' fabrication attribute.
+Updated H4 unit metadata.
+Added H5 (footprint 'MountingHole_3.2mm_M3').
+Changed REF** reference designator to H5.
+Changed H5 value from MountingHole_3.2mm_M3 to MountingHole.
+Updated H5 symbol association from  to /a3584ae6-21fb-4c4e-832d-aebb51cfbdd0.
+Updated H5 fields.
+Updated H5 sheetname to '/'.
+Updated H5 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Updated H5 footprint filters to 'MountingHole*'.
+Removed H5 'exclude from position files' fabrication attribute.
+Updated H5 unit metadata.
+Added H6 (footprint 'MountingHole_3.2mm_M3').
+Changed REF** reference designator to H6.
+Changed H6 value from MountingHole_3.2mm_M3 to MountingHole.
+Updated H6 symbol association from  to /d1bd1b21-27a5-4816-be8c-4cf9332ebb61.
+Updated H6 fields.
+Updated H6 sheetname to '/'.
+Updated H6 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Updated H6 footprint filters to 'MountingHole*'.
+Removed H6 'exclude from position files' fabrication attribute.
+Updated H6 unit metadata.
+Added H7 (footprint 'MountingHole_3.2mm_M3').
+Changed REF** reference designator to H7.
+Changed H7 value from MountingHole_3.2mm_M3 to MountingHole.
+Updated H7 symbol association from  to /8a7d4063-4ca6-4a4d-9bef-b9db1bfd1c58.
+Updated H7 fields.
+Updated H7 sheetname to '/'.
+Updated H7 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Updated H7 footprint filters to 'MountingHole*'.
+Removed H7 'exclude from position files' fabrication attribute.
+Updated H7 unit metadata.
+Added IC1 (footprint 'SamacSys_Parts:TPS25730DREFR').
+Changed IC** reference designator to IC1.
+Updated IC1 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/92d3e406-c8cd-47a6-a322-3855febea42e.
+Updated IC1 fields.
+Updated IC1 sheetname to '/USB-PD/'.
+Updated IC1 sheetfile to 'USB-PD.kicad_sch'.
+Connected IC1 pin 2 to /USB-PD/ADCIN1.
+Connected IC1 pin 32 to /USB-PD/VBUS.
+Connected IC1 pin 24 to /USB-PD/VBUS.
+Connected IC1 pin 16 to GND.
+Connected IC1 pin 34 to GND.
+Connected IC1 pin 37 to /USB-PD/PLUG_EVENT.
+Connected IC1 pin 28 to /USB-PD/CC1.
+Connected IC1 pin 23 to /USB-PD/VBUS.
+Connected IC1 pin 31 to GND.
+Add net unconnected-(IC1-DRAIN_3-Pad40).
+Connected IC1 pin 40 to unconnected-(IC1-DRAIN_3-Pad40).
+Connected IC1 pin 22 to /USB-PD/PPHV.
+Connected IC1 pin 33 to /USB-PD/VBUS.
+Connected IC1 pin 9 to GND.
+Add net unconnected-(IC1-DRAIN_2-Pad30).
+Connected IC1 pin 30 to unconnected-(IC1-DRAIN_2-Pad30).
+Connected IC1 pin 35 to GND.
+Connected IC1 pin 38 to GND.
+Connected IC1 pin 43 to /USB-PD/VBUS.
+Connected IC1 pin 11 to GND.
+Connected IC1 pin 27 to GND.
+Connected IC1 pin 44 to GND.
+Connected IC1 pin 5 to /USB-PD/ADCIN3.
+Connected IC1 pin 8 to GND.
+Connected IC1 pin 39 to GND.
+Connected IC1 pin 29 to /USB-PD/CC2.
+Connected IC1 pin 14 to GND.
+Connected IC1 pin 18 to /USB-PD/VBUS.
+Connected IC1 pin 3 to /USB-PD/ADCIN2.
+Connected IC1 pin 10 to GND.
+Connected IC1 pin 7 to /USB-PD/ADCIN4.
+Connected IC1 pin 42 to /USB-PD/VBUS.
+Connected IC1 pin 41 to /USB-PD/PPHV.
+Add net unconnected-(IC1-DRAIN_1-Pad15).
+Connected IC1 pin 15 to unconnected-(IC1-DRAIN_1-Pad15).
+Connected IC1 pin 20 to /USB-PD/PPHV.
+Connected IC1 pin 26 to GND.
+Connected IC1 pin 36 to GND.
+Connected IC1 pin 19 to /USB-PD/SINK_EN.
+Connected IC1 pin 17 to GND.
+Connected IC1 pin 25 to /USB-PD/VBUS.
+Connected IC1 pin 21 to /USB-PD/PPHV.
+Connected IC1 pin 6 to /USB-PD/CAP_MIS.
+Connected IC1 pin 1 to /USB-PD/LDO_3V3.
+Connected IC1 pin 4 to /USB-PD/LDO_1V5.
+Connected IC1 pin 12 to GND.
+Connected IC1 pin 13 to GND.
+Updated IC1 unit metadata.
+Added IC2 (footprint 'SamacSys_Parts:SOP65P640X120-24N').
+Changed IC** reference designator to IC2.
+Changed IC2 value from SOP65P640X120-24N to BQ7791501PWR.
+Updated IC2 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/3f9fd801-a2bc-4312-8bc8-5ec776e569cd.
+Updated IC2 fields.
+Updated IC2 sheetname to '/Battery_Protection/'.
+Updated IC2 sheetfile to 'Battery.kicad_sch'.
+Connected IC2 pin 2 to /Battery_Protection/AVDD.
+Connected IC2 pin 23 to -BATT.
+Connected IC2 pin 6 to Net-(IC2-VC2).
+Connected IC2 pin 18 to Net-(IC2-TS).
+Connected IC2 pin 1 to Net-(IC2-VDD).
+Connected IC2 pin 24 to -BATT.
+Connected IC2 pin 9 to -BATT.
+Connected IC2 pin 8 to Net-(IC2-VC0).
+Connected IC2 pin 7 to Net-(IC2-VC1).
+Connected IC2 pin 15 to unconnected-(IC2-LPWR-Pad15).
+Connected IC2 pin 22 to Net-(IC2-PRES).
+Connected IC2 pin 14 to Net-(IC2-LD).
+Connected IC2 pin 13 to Net-(IC2-CHG).
+Connected IC2 pin 4 to Net-(IC2-VC3).
+Connected IC2 pin 12 to Net-(IC2-DSG).
+Connected IC2 pin 21 to unconnected-(IC2-CBO-Pad21).
+Connected IC2 pin 11 to Net-(IC2-SRN).
+Connected IC2 pin 17 to /Battery_Protection/OCDP.
+Connected IC2 pin 16 to -BATT.
+Connected IC2 pin 10 to Net-(IC2-SRP).
+Connected IC2 pin 19 to Net-(IC2-VTB).
+Connected IC2 pin 5 to Net-(IC2-VC3).
+Connected IC2 pin 3 to Net-(IC2-VC3).
+Connected IC2 pin 20 to -BATT.
+Updated IC2 unit metadata.
+Added IC3 (footprint 'SamacSys_Parts:TPS56A37RPAR').
+Changed IC** reference designator to IC3.
+Changed IC3 value from TPS56A37RPAR to TPS56837RPAR.
+Updated IC3 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/2b7c2e37-098b-4c7e-9b1d-72d8fc4e7a4a.
+Updated IC3 fields.
+Updated IC3 sheetname to '/Buck/'.
+Updated IC3 sheetfile to 'Buck.kicad_sch'.
+Connected IC3 pin 5 to /Buck/SS.
+Connected IC3 pin 1 to /Buck/EN.
+Connected IC3 pin 12 to /Battery_Charger/SYSTEM.
+Connected IC3 pin 8 to /Battery_Charger/SYSTEM.
+Connected IC3 pin 7 to Net-(IC3-BOOT).
+Connected IC3 pin 13 to /Battery_Charger/SYSTEM.
+Connected IC3 pin 6 to Net-(IC3-SW).
+Connected IC3 pin 2 to Net-(IC3-FB).
+Connected IC3 pin 11 to /Battery_Charger/SYSTEM.
+Connected IC3 pin 9 to GND.
+Connected IC3 pin 10 to Net-(IC3-MODE).
+Connected IC3 pin 3 to GND.
+Connected IC3 pin 4 to /Buck/PG.
+Updated IC3 unit metadata.
+Added IC4 (footprint 'SamacSys_Parts:TPS259470ARPWR').
+Changed IC** reference designator to IC4.
+Changed IC4 value from TPS259470ARPWR to TPS259814LRPWR.
+Updated IC4 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/308f1d09-ca44-4d0a-975a-5185b3756d41.
+Updated IC4 fields.
+Updated IC4 sheetname to '/EFuse/'.
+Updated IC4 sheetfile to 'EFuse.kicad_sch'.
+Connected IC4 pin 13 to /EFuse/FLT.
+Connected IC4 pin 11 to /EFuse/EN/UVLO.
+Connected IC4 pin 12 to /EFuse/ITIMER.
+Connected IC4 pin 9 to /EFuse/ILM.
+Connected IC4 pin 7 to /EFuse/DVDT.
+Connected IC4 pin 1 to /EFuse/EN/UVLO.
+Connected IC4 pin 5 to /Buck/VOUT.
+Connected IC4 pin 3 to /EFuse/PG.
+Connected IC4 pin 4 to /EFuse/FLT.
+Connected IC4 pin 2 to /EFuse/-EN/OVLO.
+Connected IC4 pin 6 to /EFuse/EFuse_Power_Out.
+Connected IC4 pin 8 to GND.
+Connected IC4 pin 14 to /EFuse/DVDT.
+Connected IC4 pin 10 to /EFuse/ITIMER.
+Updated IC4 unit metadata.
+Added IC5 (footprint 'SamacSys_Parts:SOT95P280X145-6N').
+Changed IC** reference designator to IC5.
+Changed IC5 value from SOT95P280X145-6N to LM74700QDBVRQ1.
+Updated IC5 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/6718b4ac-cd9a-4692-a5b4-442ba7ec1583.
+Updated IC5 fields.
+Updated IC5 sheetname to '/Ideal Diode/'.
+Updated IC5 sheetfile to 'IdealDiode.kicad_sch'.
+Connected IC5 pin 2 to GND.
+Connected IC5 pin 5 to Net-(IC5-GATE).
+Connected IC5 pin 6 to /EFuse/EFuse_Power_Out.
+Connected IC5 pin 3 to /EFuse/EFuse_Power_Out.
+Connected IC5 pin 4 to /Ideal Diode/VOUT.
+Connected IC5 pin 1 to Net-(IC5-VCAP).
+Updated IC5 unit metadata.
+Added J1 (footprint 'SamacSys_Parts:USB497000A').
+Changed J** reference designator to J1.
+Changed J1 value from USB497000A to USB4970-00-A.
+Updated J1 symbol association from  to /271a75bc-4d9d-4ec3-8559-aaf53ab94e64.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected J1 pin B12 to GND.
+Connected J1 pin A5 to /USB-PD/CC1.
+Connected J1 pin B5 to /USB-PD/CC2.
+Connected J1 pin S2 to GND.
+Connected J1 pin S4 to GND.
+Connected J1 pin S1 to GND.
+Connected J1 pin S3 to GND.
+Connected J1 pin B9 to /USB-PD/VBUS.
+Connected J1 pin A9 to /USB-PD/VBUS.
+Connected J1 pin A12 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J2 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/cb5b1a0e-0411-46f2-a6f3-5e1c19da2766.
+Updated J2 fields.
+Updated J2 sheetname to '/Battery_Charger/'.
+Updated J2 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 2 to GND.
+Connected J2 pin 1 to Net-(J2-Pin_1).
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J3 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/615e086f-c34d-4823-8efe-39791b9ff116.
+Updated J3 fields.
+Updated J3 sheetname to '/Battery_Protection/'.
+Updated J3 sheetfile to 'Battery.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 2 to Net-(IC2-TS).
+Connected J3 pin 1 to -BATT.
+Updated J3 unit metadata.
+Added J4 (footprint 'SamacSys_Parts:USB113015A').
+Changed J** reference designator to J4.
+Changed J4 value from USB113015A to USB1130-15-A.
+Updated J4 symbol association from  to /be53fe45-9da2-411b-9925-c402cfa3c90c.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected J4 pin 4 to GND.
+Connected J4 pin 2 to unconnected-(J4-Pad2).
+Connected J4 pin 5 to GND.
+Connected J4 pin 3 to unconnected-(J4-Pad3).
+Connected J4 pin 1 to /Ideal Diode/VOUT.
+Connected J4 pin 6 to GND.
+Updated J4 unit metadata.
+Added J5 (footprint 'SamacSys_Parts:SHDR2W114P0X396_1X2_786X850X940P').
+Changed J** reference designator to J5.
+Changed J5 value from SHDR2W114P0X396_1X2_786X850X940P to B2P-VH.
+Updated J5 symbol association from  to /f053ce2c-0c8b-478d-99b2-3240c0571b09.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected J5 pin 1 to /Ideal Diode/VOUT.
+Connected J5 pin 2 to GND.
+Updated J5 unit metadata.
+Added JP4 (footprint 'Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm').
+Changed REF** reference designator to JP4.
+Changed JP4 value from SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm to SolderJumper_2_Bridged.
+Updated JP4 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/044b6d56-537c-4acc-aa25-903b2a48bb4b.
+Updated JP4 fields.
+Updated JP4 sheetname to '/Battery_Protection/'.
+Updated JP4 sheetfile to 'Battery.kicad_sch'.
+Updated JP4 footprint filters to 'SolderJumper*Bridged*'.
+Removed JP4 'exclude from position files' fabrication attribute.
+Connected JP4 pin 2 to Net-(IC2-CHG).
+Connected JP4 pin 1 to Net-(JP4-A).
+Updated JP4 unit metadata.
+Added JP5 (footprint 'Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm').
+Changed REF** reference designator to JP5.
+Changed JP5 value from SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm to SolderJumper_2_Bridged.
+Updated JP5 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/93667db5-0ca7-4163-9ced-79179c4b16d9.
+Updated JP5 fields.
+Updated JP5 sheetname to '/Battery_Protection/'.
+Updated JP5 sheetfile to 'Battery.kicad_sch'.
+Updated JP5 footprint filters to 'SolderJumper*Bridged*'.
+Removed JP5 'exclude from position files' fabrication attribute.
+Connected JP5 pin 2 to Net-(D21-K).
+Connected JP5 pin 1 to GND.
+Updated JP5 unit metadata.
+Added L1 (footprint 'SamacSys_Parts:INDPM5752X300N').
+Changed L** reference designator to L1.
+Changed L1 value from INDPM5752X300N to SRP5030TA-6R8M.
+Updated L1 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/1ca3a4bc-0cb5-4c42-9e95-66f24cd9f831.
+Updated L1 fields.
+Updated L1 sheetname to '/Battery_Charger/'.
+Updated L1 sheetfile to 'Battery_Charger.kicad_sch'.
+Connected L1 pin 1 to /Battery_Charger/SW.
+Connected L1 pin 2 to Net-(U2-SRP).
+Updated L1 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added L2 (footprint 'SamacSys_Parts:INDPM110100X400N').
+Changed L** reference designator to L2.
+Changed L2 value from INDPM110100X400N to SRP1038A-3R3M.
+Updated L2 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/9dcfe6c4-5f1a-439d-a16e-157ae6d57bf7.
+Updated L2 fields.
+Updated L2 sheetname to '/Buck/'.
+Updated L2 sheetfile to 'Buck.kicad_sch'.
+Connected L2 pin 2 to /Buck/VOUT.
+Connected L2 pin 1 to Net-(IC3-SW).
+Updated L2 unit metadata.
+Changed REF** reference designator to C1.
+Added Q1 (footprint 'Package_TO_SOT_SMD:TDSON-8-1').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TDSON-8-1 to CSD17577Q5A.
+Updated Q1 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/46283eb7-2237-4b8c-90be-7f3291037ed4.
+Updated Q1 fields.
+Updated Q1 sheetname to '/Battery_Charger/'.
+Updated Q1 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated Q1 footprint filters to 'TDSON*'.
+Connected Q1 pin 5 to /USB-PD/PPHV.
+Connected Q1 pin 2 to Net-(C36-Pad1).
+Connected Q1 pin 3 to Net-(C36-Pad1).
+Connected Q1 pin 1 to Net-(C36-Pad1).
+Connected Q1 pin 4 to Net-(Q1-G).
+Updated Q1 unit metadata.
+Changed C1 value from C_0805_2012Metric to 4.7uF.
+Added Q2 (footprint 'Package_TO_SOT_SMD:TDSON-8-1').
+Changed REF** reference designator to Q2.
+Changed Q2 value from TDSON-8-1 to CSD17577Q5A.
+Updated Q2 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/8a54cb59-482f-4d3b-b9e8-7a05e8e7b11b.
+Updated Q2 fields.
+Updated Q2 sheetname to '/Battery_Charger/'.
+Updated Q2 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated Q2 footprint filters to 'TDSON*'.
+Connected Q2 pin 2 to Net-(C36-Pad1).
+Connected Q2 pin 3 to Net-(C36-Pad1).
+Connected Q2 pin 1 to Net-(C36-Pad1).
+Connected Q2 pin 4 to Net-(Q1-G).
+Connected Q2 pin 5 to Net-(Q2-D).
+Updated Q2 unit metadata.
+Updated C1 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/dca58a0b-2209-409b-a907-899797dc8873.
+Added Q3 (footprint 'SamacSys_Parts:DFN_3X3_EP').
+Changed Q** reference designator to Q3.
+Changed Q3 value from DFN_3X3_EP to AON7407.
+Updated Q3 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/e4cc6c71-b2d1-4da9-8e0f-ce1449830e7e.
+Updated Q3 fields.
+Updated Q3 sheetname to '/Battery_Charger/'.
+Updated Q3 sheetfile to 'Battery_Charger.kicad_sch'.
+Connected Q3 pin 3 to /Battery_Charger/SYSTEM.
+Connected Q3 pin 7 to /Battery_Charger/PACK+.
+Connected Q3 pin 5 to /Battery_Charger/PACK+.
+Connected Q3 pin 6 to /Battery_Charger/PACK+.
+Connected Q3 pin 4 to Net-(Q3-G).
+Connected Q3 pin 1 to /Battery_Charger/SYSTEM.
+Connected Q3 pin 8 to /Battery_Charger/PACK+.
+Connected Q3 pin 2 to /Battery_Charger/SYSTEM.
+Updated Q3 unit metadata.
+Updated C1 fields.
+Added Q4 (footprint 'Package_TO_SOT_SMD:TDSON-8-1').
+Changed REF** reference designator to Q4.
+Changed Q4 value from TDSON-8-1 to CSD17577Q5A.
+Updated Q4 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/008830b9-2d2d-4bbf-846e-1de566ab5469.
+Updated Q4 fields.
+Updated Q4 sheetname to '/Battery_Protection/'.
+Updated Q4 sheetfile to 'Battery.kicad_sch'.
+Updated Q4 footprint filters to 'TDSON*'.
+Connected Q4 pin 1 to GND.
+Connected Q4 pin 4 to Net-(D11-K).
+Connected Q4 pin 2 to GND.
+Connected Q4 pin 3 to GND.
+Connected Q4 pin 5 to Net-(Q4-D).
+Updated Q4 unit metadata.
+Updated C1 sheetname to '/USB-PD/'.
+Added Q5 (footprint 'Package_TO_SOT_SMD:TDSON-8-1').
+Changed REF** reference designator to Q5.
+Changed Q5 value from TDSON-8-1 to CSD17577Q5A.
+Updated Q5 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8650e3a6-3aa6-45a7-b865-f126d3329186.
+Updated Q5 fields.
+Updated Q5 sheetname to '/Battery_Protection/'.
+Updated Q5 sheetfile to 'Battery.kicad_sch'.
+Updated Q5 footprint filters to 'TDSON*'.
+Connected Q5 pin 3 to Net-(Q5-S-Pad1).
+Connected Q5 pin 4 to Net-(Q5-G).
+Connected Q5 pin 2 to Net-(Q5-S-Pad1).
+Connected Q5 pin 5 to Net-(Q4-D).
+Connected Q5 pin 1 to Net-(Q5-S-Pad1).
+Updated Q5 unit metadata.
+Updated C1 sheetfile to 'USB-PD.kicad_sch'.
+Added Q6 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to Q6.
+Changed Q6 value from SOT-23 to BSS84.
+Updated Q6 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/e0b5b8c0-2695-4086-8b2c-48ed1e8f27af.
+Updated Q6 fields.
+Updated Q6 sheetname to '/Battery_Protection/'.
+Updated Q6 sheetfile to 'Battery.kicad_sch'.
+Updated Q6 footprint filters to 'SOT?23*'.
+Added Q6 'Do not place' fabrication attribute.
+Connected Q6 pin 2 to Net-(IC2-CHG).
+Connected Q6 pin 1 to -BATT.
+Connected Q6 pin 3 to Net-(JP4-A).
+Updated Q6 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Added Q7 (footprint 'SamacSys_Parts:CSD17310Q5A').
+Changed Q** reference designator to Q7.
+Changed Q7 value from CSD17310Q5A to CSD17577Q5AT.
+Updated Q7 symbol association from  to /bcde4c17-5920-4985-9e2f-9ce573c23c4d/2627221b-8334-489b-97de-021e19b1ad46.
+Updated Q7 fields.
+Updated Q7 sheetname to '/Ideal Diode/'.
+Updated Q7 sheetfile to 'IdealDiode.kicad_sch'.
+Connected Q7 pin 7 to /Ideal Diode/VOUT.
+Connected Q7 pin 4 to Net-(IC5-GATE).
+Connected Q7 pin 8 to /Ideal Diode/VOUT.
+Connected Q7 pin 6 to /Ideal Diode/VOUT.
+Connected Q7 pin 2 to /EFuse/EFuse_Power_Out.
+Connected Q7 pin 5 to /Ideal Diode/VOUT.
+Connected Q7 pin 1 to /EFuse/EFuse_Power_Out.
+Connected Q7 pin 3 to /EFuse/EFuse_Power_Out.
+Updated Q7 unit metadata.
+Connected C1 pin 1 to /USB-PD/VBUS.
+Added R1 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0805_2012Metric to 2.
+Updated R1 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/9ade49dc-2881-4480-b058-dfba82959314.
+Updated R1 fields.
+Updated R1 sheetname to '/Battery_Charger/'.
+Updated R1 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 2 to Net-(C13-Pad1).
+Connected R1 pin 1 to /USB-PD/PPHV.
+Updated R1 unit metadata.
+Connected C1 pin 2 to GND.
+Added R2 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0805_2012Metric to 4.02K.
+Updated R2 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/79ba63a0-98e1-4e9f-bb5e-a8c1e979e42d.
+Updated R2 fields.
+Updated R2 sheetname to '/Battery_Charger/'.
+Updated R2 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to Net-(U2-ACDRV).
+Connected R2 pin 1 to Net-(Q1-G).
+Updated R2 unit metadata.
+Updated C1 unit metadata.
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0805_2012Metric to 4.7.
+Updated R3 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/b2e16e34-1b26-4d6b-813c-c62f7dc5d059.
+Updated R3 fields.
+Updated R3 sheetname to '/Battery_Charger/'.
+Updated R3 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to /Battery_Charger/AVCC.
+Connected R3 pin 1 to Net-(D22-K).
+Updated R3 unit metadata.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R4 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0805_2012Metric to 2.2k.
+Updated R4 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/d2608ad0-0cc6-453b-a6da-91ad3297fa83.
+Updated R4 fields.
+Updated R4 sheetname to '/USB-PD/'.
+Updated R4 sheetfile to 'USB-PD.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 2 to Net-(D1-A).
+Connected R4 pin 1 to /USB-PD/LDO_3V3.
+Updated R4 unit metadata.
+Changed REF** reference designator to C2.
+Added R5 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0805_2012Metric to 2.2k.
+Updated R5 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/259f90e9-4af8-48ea-b003-380bb8b3a61f.
+Updated R5 fields.
+Updated R5 sheetname to '/USB-PD/'.
+Updated R5 sheetfile to 'USB-PD.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to /USB-PD/LDO_3V3.
+Connected R5 pin 2 to Net-(D2-A).
+Updated R5 unit metadata.
+Changed C2 value from C_0805_2012Metric to 0.01uF.
+Added R6 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0805_2012Metric to 2.2k.
+Updated R6 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/76f6f2fc-d5dc-4b82-800a-24c900a1748a.
+Updated R6 fields.
+Updated R6 sheetname to '/USB-PD/'.
+Updated R6 sheetfile to 'USB-PD.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to /USB-PD/LDO_3V3.
+Connected R6 pin 2 to Net-(D3-A).
+Updated R6 unit metadata.
+Updated C2 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/cbbe1d1b-4f72-46a0-9a0c-9fd8e58c86bb.
+Added R7 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0805_2012Metric to 162k.
+Updated R7 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/e640b66b-ce99-4fae-81f4-323a0dd82d95.
+Updated R7 fields.
+Updated R7 sheetname to '/USB-PD/'.
+Updated R7 sheetfile to 'USB-PD.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 1 to /USB-PD/LDO_3V3.
+Connected R7 pin 2 to /USB-PD/ADCIN1.
+Updated R7 unit metadata.
+Updated C2 fields.
+Added R8 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0805_2012Metric to 38.3k.
+Updated R8 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/40c86ab4-5684-4fe8-a261-551515e7742b.
+Updated R8 fields.
+Updated R8 sheetname to '/USB-PD/'.
+Updated R8 sheetfile to 'USB-PD.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 2 to GND.
+Connected R8 pin 1 to /USB-PD/ADCIN1.
+Updated R8 unit metadata.
+Updated C2 sheetname to '/USB-PD/'.
+Added R9 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0805_2012Metric to 232k.
+Updated R9 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/e0ef60c3-c017-4208-874e-ca43ec7be565.
+Updated R9 fields.
+Updated R9 sheetname to '/USB-PD/'.
+Updated R9 sheetfile to 'USB-PD.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 1 to /USB-PD/LDO_3V3.
+Connected R9 pin 2 to /USB-PD/ADCIN2.
+Updated R9 unit metadata.
+Updated C2 sheetfile to 'USB-PD.kicad_sch'.
+Added R10 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0805_2012Metric to 100k.
+Updated R10 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/a4771cc0-038f-4bf2-8862-9975e9633fb6.
+Updated R10 fields.
+Updated R10 sheetname to '/USB-PD/'.
+Updated R10 sheetfile to 'USB-PD.kicad_sch'.
+Updated R10 footprint filters to 'R_*'.
+Connected R10 pin 1 to /USB-PD/ADCIN2.
+Connected R10 pin 2 to GND.
+Updated R10 unit metadata.
+Updated C2 footprint filters to 'C_*'.
+Added R11 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0805_2012Metric to 162k.
+Updated R11 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/dce0db67-27d9-4ab1-9f2d-2b3ad8b06882.
+Updated R11 fields.
+Updated R11 sheetname to '/USB-PD/'.
+Updated R11 sheetfile to 'USB-PD.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 2 to /USB-PD/ADCIN3.
+Connected R11 pin 1 to /USB-PD/LDO_3V3.
+Updated R11 unit metadata.
+Connected C2 pin 1 to /USB-PD/VBUS.
+Added R12 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0805_2012Metric to 38.3k.
+Updated R12 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/a33ff1dc-b316-4432-9940-61b5a5e7182f.
+Updated R12 fields.
+Updated R12 sheetname to '/USB-PD/'.
+Updated R12 sheetfile to 'USB-PD.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 2 to GND.
+Connected R12 pin 1 to /USB-PD/ADCIN3.
+Updated R12 unit metadata.
+Connected C2 pin 2 to GND.
+Added R13 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0805_2012Metric to 200k.
+Updated R13 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/d4f34bfa-e44b-4cae-94e0-74cd3d1071e8.
+Updated R13 fields.
+Updated R13 sheetname to '/USB-PD/'.
+Updated R13 sheetfile to 'USB-PD.kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Connected R13 pin 2 to /USB-PD/ADCIN4.
+Connected R13 pin 1 to /USB-PD/LDO_3V3.
+Updated R13 unit metadata.
+Updated C2 unit metadata.
+Added R14 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0805_2012Metric to 10k.
+Updated R14 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/f61d8816-8b44-4531-ac3c-de0d7ddf9f98.
+Updated R14 fields.
+Updated R14 sheetname to '/USB-PD/'.
+Updated R14 sheetfile to 'USB-PD.kicad_sch'.
+Updated R14 footprint filters to 'R_*'.
+Connected R14 pin 2 to GND.
+Connected R14 pin 1 to /USB-PD/ADCIN4.
+Updated R14 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R15 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R15.
+Changed R15 value from R_0805_2012Metric to 4.02K.
+Updated R15 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/dcf0eefe-f66c-4df4-ba17-83ca6bb8b3ad.
+Updated R15 fields.
+Updated R15 sheetname to '/Battery_Charger/'.
+Updated R15 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R15 footprint filters to 'R_*'.
+Connected R15 pin 1 to Net-(C36-Pad1).
+Connected R15 pin 2 to Net-(U2-CMSRC).
+Updated R15 unit metadata.
+Changed REF** reference designator to C3.
+Added R16 (footprint 'Resistor_SMD:R_2010_5025Metric').
+Changed REF** reference designator to R16.
+Changed R16 value from R_2010_5025Metric to 20m.
+Updated R16 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/c47b691a-a3b9-43dc-8210-f5e003a3c63f.
+Updated R16 fields.
+Updated R16 sheetname to '/Battery_Charger/'.
+Updated R16 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R16 footprint filters to 'R_*'.
+Connected R16 pin 2 to /Battery_Charger/SYSTEM.
+Connected R16 pin 1 to Net-(Q2-D).
+Updated R16 unit metadata.
+Changed C3 value from C_0805_2012Metric to 0.01uF.
+Added R17 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R17.
+Changed R17 value from R_0805_2012Metric to 1M.
+Updated R17 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/b5fe02ff-5ee0-4e38-9b90-39d516788a81.
+Updated R17 fields.
+Updated R17 sheetname to '/Battery_Charger/'.
+Updated R17 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R17 footprint filters to 'R_*'.
+Connected R17 pin 2 to Net-(U2-OVPSET).
+Connected R17 pin 1 to /USB-PD/PPHV.
+Updated R17 unit metadata.
+Updated C3 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/1e507a40-7742-4fba-a3b4-455be79dd63e.
+Added R18 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R18.
+Changed R18 value from R_0805_2012Metric to 100k.
+Updated R18 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/969dd50d-1e8f-4713-9aa5-513cc5139644.
+Updated R18 fields.
+Updated R18 sheetname to '/Battery_Charger/'.
+Updated R18 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R18 footprint filters to 'R_*'.
+Connected R18 pin 1 to Net-(U2-OVPSET).
+Connected R18 pin 2 to GND.
+Updated R18 unit metadata.
+Updated C3 fields.
+Added R19 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R19.
+Changed R19 value from R_0805_2012Metric to 5.23K.
+Updated R19 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/554a79e6-6fd2-49d9-b1d7-01b338e11fda.
+Updated R19 fields.
+Updated R19 sheetname to '/Battery_Charger/'.
+Updated R19 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R19 footprint filters to 'R_*'.
+Connected R19 pin 1 to /Battery_Charger/VREF.
+Connected R19 pin 2 to Net-(J2-Pin_1).
+Updated R19 unit metadata.
+Updated C3 sheetname to '/USB-PD/'.
+Added R20 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R20.
+Changed R20 value from R_0805_2012Metric to 30.1K.
+Updated R20 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/7808a105-34a4-4b18-a569-583c629f7f43.
+Updated R20 fields.
+Updated R20 sheetname to '/Battery_Charger/'.
+Updated R20 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R20 footprint filters to 'R_*'.
+Connected R20 pin 2 to GND.
+Connected R20 pin 1 to Net-(J2-Pin_1).
+Updated R20 unit metadata.
+Updated C3 sheetfile to 'USB-PD.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Added R22 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R22.
+Changed R22 value from R_0805_2012Metric to 51.1K.
+Updated R22 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/6238102d-77c5-4e50-81c3-78e42bc886ce.
+Updated R22 fields.
+Updated R22 sheetname to '/Battery_Charger/'.
+Updated R22 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R22 footprint filters to 'R_*'.
+Connected R22 pin 1 to /Battery_Charger/VREF.
+Connected R22 pin 2 to /Battery_Charger/ACSET.
+Updated R22 unit metadata.
+Connected C3 pin 1 to /USB-PD/VBUS.
+Added R23 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R23.
+Changed R23 value from R_0805_2012Metric to 10K.
+Updated R23 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/16a541a4-aedb-46de-817a-0b8591e7dcce.
+Updated R23 fields.
+Updated R23 sheetname to '/Battery_Charger/'.
+Updated R23 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R23 footprint filters to 'R_*'.
+Connected R23 pin 1 to /Battery_Charger/ACSET.
+Connected R23 pin 2 to GND.
+Updated R23 unit metadata.
+Connected C3 pin 2 to GND.
+Added R24 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R24.
+Changed R24 value from R_0805_2012Metric to 154K.
+Updated R24 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/1e197cc8-9ce9-4703-81b6-730ee09e09fd.
+Updated R24 fields.
+Updated R24 sheetname to '/Battery_Charger/'.
+Updated R24 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R24 footprint filters to 'R_*'.
+Connected R24 pin 1 to /Battery_Charger/VREF.
+Connected R24 pin 2 to /Battery_Charger/ISET.
+Updated R24 unit metadata.
+Updated C3 unit metadata.
+Added R25 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R25.
+Changed R25 value from R_0805_2012Metric to 10K.
+Updated R25 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/e9f1ee10-7147-4af4-9966-5e301344c504.
+Updated R25 fields.
+Updated R25 sheetname to '/Battery_Charger/'.
+Updated R25 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R25 footprint filters to 'R_*'.
+Connected R25 pin 1 to /Battery_Charger/ISET.
+Connected R25 pin 2 to GND.
+Updated R25 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R26 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R26.
+Changed R26 value from R_0805_2012Metric to 1K.
+Updated R26 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/2f004bb7-d01e-428f-961a-e2451d2014dc.
+Updated R26 fields.
+Updated R26 sheetname to '/Battery_Charger/'.
+Updated R26 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R26 footprint filters to 'R_*'.
+Connected R26 pin 1 to Net-(U2-~{BATDRV}).
+Connected R26 pin 2 to Net-(Q3-G).
+Updated R26 unit metadata.
+Changed REF** reference designator to C4.
+Added R27 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R27.
+Changed R27 value from R_1206_3216Metric to 10m.
+Updated R27 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/dee25c6a-e1f7-49a9-b63a-915d1f2852aa.
+Updated R27 fields.
+Updated R27 sheetname to '/Battery_Charger/'.
+Updated R27 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R27 footprint filters to 'R_*'.
+Connected R27 pin 1 to /Battery_Charger/PACK+.
+Connected R27 pin 2 to Net-(U2-SRP).
+Updated R27 unit metadata.
+Changed C4 value from C_0805_2012Metric to 0.01uF.
+Added R28 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R28.
+Changed R28 value from R_0805_2012Metric to 1K.
+Updated R28 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/9a2b57e0-fd4a-40f4-9b4b-da6aec38a0f8.
+Updated R28 fields.
+Updated R28 sheetname to '/Battery_Protection/'.
+Updated R28 sheetfile to 'Battery.kicad_sch'.
+Updated R28 footprint filters to 'R_*'.
+Connected R28 pin 2 to Net-(IC2-VDD).
+Connected R28 pin 1 to /Battery_Charger/PACK+.
+Updated R28 unit metadata.
+Updated C4 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/15a1bbc0-f57f-4172-b56d-ea111e7b8adc.
+Added R29 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R29.
+Changed R29 value from R_0805_2012Metric to 10K.
+Updated R29 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/b4696123-03bb-464c-8ed8-c525f42eb5d9.
+Updated R29 fields.
+Updated R29 sheetname to '/Battery_Protection/'.
+Updated R29 sheetfile to 'Battery.kicad_sch'.
+Updated R29 footprint filters to 'R_*'.
+Connected R29 pin 2 to Net-(IC2-VDD).
+Connected R29 pin 1 to Net-(R29-Pad1).
+Updated R29 unit metadata.
+Updated C4 fields.
+Added R30 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R30.
+Changed R30 value from R_0805_2012Metric to 10K.
+Updated R30 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/713dd2a9-9b5e-49ae-b3a2-02461e8f03ac.
+Updated R30 fields.
+Updated R30 sheetname to '/Battery_Protection/'.
+Updated R30 sheetfile to 'Battery.kicad_sch'.
+Updated R30 footprint filters to 'R_*'.
+Connected R30 pin 1 to Net-(IC2-TS).
+Connected R30 pin 2 to Net-(IC2-VTB).
+Updated R30 unit metadata.
+Updated C4 sheetname to '/USB-PD/'.
+Added R31 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R31.
+Changed R31 value from R_0805_2012Metric to 1K.
+Updated R31 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/553afe65-396a-4499-9f77-d0bc8f079910.
+Updated R31 fields.
+Updated R31 sheetname to '/Battery_Protection/'.
+Updated R31 sheetfile to 'Battery.kicad_sch'.
+Updated R31 footprint filters to 'R_*'.
+Connected R31 pin 1 to Net-(JP4-A).
+Connected R31 pin 2 to Net-(D20-A).
+Updated R31 unit metadata.
+Updated C4 sheetfile to 'USB-PD.kicad_sch'.
+Added R32 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R32.
+Changed R32 value from R_0805_2012Metric to 100K.
+Updated R32 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/37e68c82-a62a-46d3-a5a7-e63e9540807c.
+Updated R32 fields.
+Updated R32 sheetname to '/Battery_Protection/'.
+Updated R32 sheetfile to 'Battery.kicad_sch'.
+Updated R32 footprint filters to 'R_*'.
+Connected R32 pin 2 to -BATT.
+Connected R32 pin 1 to /Battery_Protection/OCDP.
+Updated R32 unit metadata.
+Updated C4 footprint filters to 'C_*'.
+Added R33 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R33.
+Changed R33 value from R_0805_2012Metric to 470K.
+Updated R33 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/79d24201-3b88-4bdf-a5d2-efeb9dfdcdfa.
+Updated R33 fields.
+Updated R33 sheetname to '/Battery_Protection/'.
+Updated R33 sheetfile to 'Battery.kicad_sch'.
+Updated R33 footprint filters to 'R_*'.
+Connected R33 pin 2 to Net-(D21-K).
+Connected R33 pin 1 to Net-(IC2-LD).
+Updated R33 unit metadata.
+Connected C4 pin 1 to /USB-PD/VBUS.
+Added R34 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R34.
+Changed R34 value from R_0805_2012Metric to 3.3M.
+Updated R34 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/733f2574-a69d-4256-860e-f683df7912ea.
+Updated R34 fields.
+Updated R34 sheetname to '/Battery_Protection/'.
+Updated R34 sheetfile to 'Battery.kicad_sch'.
+Updated R34 footprint filters to 'R_*'.
+Connected R34 pin 1 to Net-(D11-K).
+Connected R34 pin 2 to GND.
+Updated R34 unit metadata.
+Connected C4 pin 2 to GND.
+Added R35 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R35.
+Changed R35 value from R_0805_2012Metric to 1M.
+Updated R35 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/976da688-73dc-48b7-a850-56f819810263.
+Updated R35 fields.
+Updated R35 sheetname to '/Battery_Protection/'.
+Updated R35 sheetfile to 'Battery.kicad_sch'.
+Updated R35 footprint filters to 'R_*'.
+Connected R35 pin 1 to Net-(Q5-G).
+Connected R35 pin 2 to Net-(Q5-S-Pad1).
+Updated R35 unit metadata.
+Updated C4 unit metadata.
+Added R36 (footprint 'Resistor_SMD:R_2512_6332Metric').
+Changed REF** reference designator to R36.
+Changed R36 value from R_2512_6332Metric to 5m.
+Updated R36 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/cb7717e5-5264-4b2a-8171-c8c612e402c3.
+Updated R36 fields.
+Updated R36 sheetname to '/Battery_Protection/'.
+Updated R36 sheetfile to 'Battery.kicad_sch'.
+Updated R36 footprint filters to 'R_*'.
+Connected R36 pin 2 to Net-(Q5-S-Pad1).
+Connected R36 pin 1 to -BATT.
+Updated R36 unit metadata.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R37 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R37.
+Changed R37 value from R_0805_2012Metric to 4.53K.
+Updated R37 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/b259725b-3aea-4d38-a552-7b6171c590ea.
+Updated R37 fields.
+Updated R37 sheetname to '/Battery_Protection/'.
+Updated R37 sheetfile to 'Battery.kicad_sch'.
+Updated R37 footprint filters to 'R_*'.
+Connected R37 pin 1 to Net-(IC2-DSG).
+Connected R37 pin 2 to Net-(Q5-G).
+Updated R37 unit metadata.
+Changed REF** reference designator to C5.
+Added R38 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R38.
+Changed R38 value from R_1206_3216Metric to 47.
+Updated R38 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/88849698-9b70-44ee-b86d-dcefdd7ad847.
+Updated R38 fields.
+Updated R38 sheetname to '/Battery_Protection/'.
+Updated R38 sheetfile to 'Battery.kicad_sch'.
+Updated R38 footprint filters to 'R_*'.
+Connected R38 pin 1 to -BATT.
+Connected R38 pin 2 to Net-(IC2-VC0).
+Updated R38 unit metadata.
+Changed C5 value from C_0805_2012Metric to 0.01uF.
+Added R39 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R39.
+Changed R39 value from R_1206_3216Metric to 47.
+Updated R39 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8d744fcc-ba98-442b-8d4d-8b5afbb3653e.
+Updated R39 fields.
+Updated R39 sheetname to '/Battery_Protection/'.
+Updated R39 sheetfile to 'Battery.kicad_sch'.
+Updated R39 footprint filters to 'R_*'.
+Connected R39 pin 1 to /Battery_Charger/PACK+.
+Connected R39 pin 2 to Net-(IC2-VC3).
+Updated R39 unit metadata.
+Updated C5 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/4c2c307a-cfaf-4fb4-a671-ca59bc0a0b39.
+Added R40 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R40.
+Changed R40 value from R_1206_3216Metric to 47.
+Updated R40 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/e34f1ee7-f7ad-4372-ac02-7b9c27a6d617.
+Updated R40 fields.
+Updated R40 sheetname to '/Battery_Protection/'.
+Updated R40 sheetfile to 'Battery.kicad_sch'.
+Updated R40 footprint filters to 'R_*'.
+Connected R40 pin 1 to /Battery_Protection/Bat2+.
+Connected R40 pin 2 to Net-(IC2-VC2).
+Updated R40 unit metadata.
+Updated C5 fields.
+Added R41 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R41.
+Changed R41 value from R_1206_3216Metric to 47.
+Updated R41 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/1cecd763-1d6e-4699-b3fb-22039bb64731.
+Updated R41 fields.
+Updated R41 sheetname to '/Battery_Protection/'.
+Updated R41 sheetfile to 'Battery.kicad_sch'.
+Updated R41 footprint filters to 'R_*'.
+Connected R41 pin 1 to /Battery_Protection/Bat1+.
+Connected R41 pin 2 to Net-(IC2-VC1).
+Updated R41 unit metadata.
+Updated C5 sheetname to '/USB-PD/'.
+Added R42 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R42.
+Changed R42 value from R_0805_2012Metric to 100.
+Updated R42 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/662f0540-d248-4998-98bf-5e7fa249e688.
+Updated R42 fields.
+Updated R42 sheetname to '/Battery_Protection/'.
+Updated R42 sheetfile to 'Battery.kicad_sch'.
+Updated R42 footprint filters to 'R_*'.
+Connected R42 pin 1 to Net-(IC2-SRP).
+Connected R42 pin 2 to -BATT.
+Updated R42 unit metadata.
+Updated C5 sheetfile to 'USB-PD.kicad_sch'.
+Added R43 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R43.
+Changed R43 value from R_0805_2012Metric to 100.
+Updated R43 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/8d0c38a3-fe19-4b58-aa97-37e9232e14ff.
+Updated R43 fields.
+Updated R43 sheetname to '/Battery_Protection/'.
+Updated R43 sheetfile to 'Battery.kicad_sch'.
+Updated R43 footprint filters to 'R_*'.
+Connected R43 pin 1 to Net-(IC2-SRN).
+Connected R43 pin 2 to Net-(Q5-S-Pad1).
+Updated R43 unit metadata.
+Updated C5 footprint filters to 'C_*'.
+Added R44 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R44.
+Changed R44 value from R_0805_2012Metric to 1M.
+Updated R44 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/643cf752-d6ce-4334-8e3b-a7fa24be9cf0.
+Updated R44 fields.
+Updated R44 sheetname to '/Battery_Protection/'.
+Updated R44 sheetfile to 'Battery.kicad_sch'.
+Updated R44 footprint filters to 'R_*'.
+Connected R44 pin 1 to Net-(D20-A).
+Connected R44 pin 2 to Net-(D11-K).
+Updated R44 unit metadata.
+Connected C5 pin 2 to GND.
+Added R45 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R45.
+Changed R45 value from R_0805_2012Metric to 1M.
+Updated R45 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/ae8aff32-27f1-4c7c-92b1-be67f80601f6.
+Updated R45 fields.
+Updated R45 sheetname to '/Battery_Charger/'.
+Updated R45 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated R45 footprint filters to 'R_*'.
+Connected R45 pin 1 to Net-(C36-Pad1).
+Connected R45 pin 2 to Net-(Q1-G).
+Updated R45 unit metadata.
+Connected C5 pin 1 to /USB-PD/VBUS.
+Updated C5 unit metadata.
+Added R47 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R47.
+Changed R47 value from R_0805_2012Metric to 2.2k.
+Updated R47 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/534864e1-1494-4c8f-a584-c7ecd688c589.
+Updated R47 fields.
+Updated R47 sheetname to '/EFuse/'.
+Updated R47 sheetfile to 'EFuse.kicad_sch'.
+Updated R47 footprint filters to 'R_*'.
+Connected R47 pin 2 to Net-(D15-A).
+Connected R47 pin 1 to /Battery_Charger/VREF.
+Updated R47 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R49 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R49.
+Changed R49 value from R_0805_2012Metric to 604.0.
+Updated R49 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/967c167b-b06f-4203-98b5-bab861c15abf.
+Updated R49 fields.
+Updated R49 sheetname to '/Buck/'.
+Updated R49 sheetfile to 'Buck.kicad_sch'.
+Updated R49 footprint filters to 'R_*'.
+Connected R49 pin 2 to Net-(C39-Pad2).
+Connected R49 pin 1 to Net-(IC3-FB).
+Updated R49 unit metadata.
+Changed REF** reference designator to C6.
+Added R50 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R50.
+Changed R50 value from R_0805_2012Metric to 75.0K.
+Updated R50 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/87535ec5-4116-4a9f-8f21-8f233f9e4191.
+Updated R50 fields.
+Updated R50 sheetname to '/Buck/'.
+Updated R50 sheetfile to 'Buck.kicad_sch'.
+Updated R50 footprint filters to 'R_*'.
+Connected R50 pin 1 to Net-(C39-Pad2).
+Connected R50 pin 2 to /Buck/VOUT.
+Updated R50 unit metadata.
+Changed C6 value from C_0805_2012Metric to 22uF.
+Added R51 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R51.
+Changed R51 value from R_0805_2012Metric to 10.0K.
+Updated R51 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/e46d8df8-7f7c-4dfc-ac8c-cfa114cfd25e.
+Updated R51 fields.
+Updated R51 sheetname to '/Buck/'.
+Updated R51 sheetfile to 'Buck.kicad_sch'.
+Updated R51 footprint filters to 'R_*'.
+Connected R51 pin 2 to Net-(IC3-FB).
+Connected R51 pin 1 to GND.
+Updated R51 unit metadata.
+Updated C6 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/fa6db40b-4c42-4c39-b7b8-5d1cfcd7474e.
+Added R52 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R52.
+Changed R52 value from R_0805_2012Metric to 30.1K.
+Updated R52 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/56bef39d-b58b-45be-b79d-59f9145e0ff6.
+Updated R52 fields.
+Updated R52 sheetname to '/Buck/'.
+Updated R52 sheetfile to 'Buck.kicad_sch'.
+Updated R52 footprint filters to 'R_*'.
+Connected R52 pin 2 to Net-(IC3-MODE).
+Connected R52 pin 1 to GND.
+Updated R52 unit metadata.
+Updated C6 fields.
+Added R53 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R53.
+Changed R53 value from R_0805_2012Metric to 36.1K.
+Updated R53 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/ad9d4858-b38d-411f-acb4-1d0b5892adc9.
+Updated R53 fields.
+Updated R53 sheetname to '/Buck/'.
+Updated R53 sheetfile to 'Buck.kicad_sch'.
+Updated R53 footprint filters to 'R_*'.
+Connected R53 pin 1 to GND.
+Connected R53 pin 2 to /Buck/EN.
+Updated R53 unit metadata.
+Updated C6 sheetname to '/USB-PD/'.
+Added R54 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R54.
+Changed R54 value from R_0805_2012Metric to 36.1K.
+Updated R54 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/8c1723b7-8969-4f15-80f9-1f01386484f7.
+Updated R54 fields.
+Updated R54 sheetname to '/Buck/'.
+Updated R54 sheetfile to 'Buck.kicad_sch'.
+Updated R54 footprint filters to 'R_*'.
+Connected R54 pin 1 to /Buck/EN.
+Connected R54 pin 2 to /Battery_Charger/SYSTEM.
+Updated R54 unit metadata.
+Updated C6 sheetfile to 'USB-PD.kicad_sch'.
+Added R55 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R55.
+Changed R55 value from R_0805_2012Metric to 2.2k.
+Updated R55 symbol association from  to /6c49045b-289a-42ed-9960-22de3bfd078f/395bd851-54d9-485b-96f4-56d44ad6baa3.
+Updated R55 fields.
+Updated R55 sheetname to '/Buck/'.
+Updated R55 sheetfile to 'Buck.kicad_sch'.
+Updated R55 footprint filters to 'R_*'.
+Connected R55 pin 1 to Net-(D8-A).
+Connected R55 pin 2 to /Battery_Charger/VREF.
+Updated R55 unit metadata.
+Updated C6 footprint filters to 'C_*'.
+Added R60 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R60.
+Changed R60 value from R_0805_2012Metric to 1.15K.
+Updated R60 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/8fc2a4a2-5152-466c-bc30-38747dff77d7.
+Updated R60 fields.
+Updated R60 sheetname to '/EFuse/'.
+Updated R60 sheetfile to 'EFuse.kicad_sch'.
+Updated R60 footprint filters to 'R_*'.
+Connected R60 pin 2 to /EFuse/ILM.
+Connected R60 pin 1 to GND.
+Updated R60 unit metadata.
+Connected C6 pin 1 to /USB-PD/PPHV.
+Added R61 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R61.
+Changed R61 value from R_0805_2012Metric to 365K.
+Updated R61 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/5880877f-a0c4-4e1f-a930-ece038c9c07d.
+Updated R61 fields.
+Updated R61 sheetname to '/EFuse/'.
+Updated R61 sheetfile to 'EFuse.kicad_sch'.
+Updated R61 footprint filters to 'R_*'.
+Connected R61 pin 1 to /EFuse/EN/UVLO.
+Connected R61 pin 2 to /Buck/VOUT.
+Updated R61 unit metadata.
+Connected C6 pin 2 to GND.
+Added R62 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R62.
+Changed R62 value from R_0805_2012Metric to 121K.
+Updated R62 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/1efff78d-597c-48d3-8eac-22ac10471ca7.
+Updated R62 fields.
+Updated R62 sheetname to '/EFuse/'.
+Updated R62 sheetfile to 'EFuse.kicad_sch'.
+Updated R62 footprint filters to 'R_*'.
+Connected R62 pin 1 to GND.
+Connected R62 pin 2 to /EFuse/EN/UVLO.
+Updated R62 unit metadata.
+Updated C6 unit metadata.
+Added R63 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R63.
+Changed R63 value from R_0805_2012Metric to 34.8K.
+Updated R63 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/b7345e08-d504-47af-9e54-6ebb930e999b.
+Updated R63 fields.
+Updated R63 sheetname to '/EFuse/'.
+Updated R63 sheetfile to 'EFuse.kicad_sch'.
+Updated R63 footprint filters to 'R_*'.
+Connected R63 pin 1 to /EFuse/-EN/OVLO.
+Connected R63 pin 2 to /Buck/VOUT.
+Updated R63 unit metadata.
+Added C7 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R64 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R64.
+Changed R64 value from R_0805_2012Metric to 10K.
+Updated R64 symbol association from  to /f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f/289069a2-216e-4387-a83c-55a215a0a96b.
+Updated R64 fields.
+Updated R64 sheetname to '/EFuse/'.
+Updated R64 sheetfile to 'EFuse.kicad_sch'.
+Updated R64 footprint filters to 'R_*'.
+Connected R64 pin 2 to /EFuse/-EN/OVLO.
+Connected R64 pin 1 to GND.
+Updated R64 unit metadata.
+Changed REF** reference designator to C7.
+Added SW2 (footprint 'Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile to SW_DIP_x01.
+Updated SW2 symbol association from  to /94fb3690-2598-49c1-a40b-984063e6e372/2ff20d09-9bb0-4c73-9206-f4423a1009f1.
+Updated SW2 fields.
+Updated SW2 sheetname to '/Battery_Protection/'.
+Updated SW2 sheetfile to 'Battery.kicad_sch'.
+Updated SW2 footprint filters to 'SW?DIP?x1*'.
+Connected SW2 pin 1 to Net-(IC2-PRES).
+Connected SW2 pin 2 to Net-(R29-Pad1).
+Updated SW2 unit metadata.
+Changed C7 value from C_0805_2012Metric to 22uF.
+Added U1 (footprint 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm').
+Changed REF** reference designator to U1.
+Changed U1 value from WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm to TVS2200DRV.
+Updated U1 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/cfc41c45-8bd6-4474-b308-fb0efdcae423.
+Updated U1 fields.
+Updated U1 sheetname to '/USB-PD/'.
+Updated U1 sheetfile to 'USB-PD.kicad_sch'.
+Updated U1 footprint filters to 'WSON*1EP*2x2mm*P0.65mm*EP1x1.6mm*'.
+Connected U1 pin 2 to GND.
+Connected U1 pin 3 to GND.
+Connected U1 pin 4 to /USB-PD/VBUS.
+Connected U1 pin 1 to GND.
+Connected U1 pin 5 to /USB-PD/VBUS.
+Connected U1 pin 7 to GND.
+Connected U1 pin 6 to /USB-PD/VBUS.
+Updated U1 unit metadata.
+Updated C7 symbol association from  to /c4516421-db54-4dfe-859f-f0bebfc15ed5/bf088819-e5fc-4ada-b694-249da4048891.
+Added U2 (footprint 'Package_DFN_QFN:Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm').
+Changed REF** reference designator to U2.
+Changed U2 value from Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm to BQ24133RGY.
+Updated U2 symbol association from  to /b8949a81-2ec9-4fff-98b2-e442528a67ed/ab1b1702-3950-4072-9937-7dfd6e42258f.
+Updated U2 fields.
+Updated U2 sheetname to '/Battery_Charger/'.
+Updated U2 sheetfile to 'Battery_Charger.kicad_sch'.
+Updated U2 footprint filters to 'Texas*RGY*R*PVQFN*N*'.
+Connected U2 pin 18 to Net-(U2-OVPSET).
+Connected U2 pin 7 to Net-(U2-CMSRC).
+Connected U2 pin 21 to /Battery_Charger/BTST.
+Connected U2 pin 8 to Net-(U2-ACDRV).
+Connected U2 pin 23 to GND.
+Connected U2 pin 14 to /Battery_Charger/VREF.
+Connected U2 pin 22 to GND.
+Connected U2 pin 16 to Net-(U2-SRP).
+Connected U2 pin 20 to Net-(U2-REGN).
+Connected U2 pin 12 to /Battery_Charger/VREF.
+Connected U2 pin 9 to /Battery_Charger/STAT.
+Connected U2 pin 1 to /Battery_Charger/SW.
+Connected U2 pin 4 to /Battery_Charger/AVCC.
+Connected U2 pin 15 to /Battery_Charger/PACK+.
+Connected U2 pin 6 to Net-(Q2-D).
+Connected U2 pin 17 to /Battery_Charger/ACSET.
+Connected U2 pin 10 to Net-(J2-Pin_1).
+Connected U2 pin 13 to /Battery_Charger/ISET.
+Connected U2 pin 24 to /Battery_Charger/SW.
+Connected U2 pin 5 to /Battery_Charger/SYSTEM.
+Connected U2 pin 3 to /Battery_Charger/SYSTEM.
+Connected U2 pin 25 to GND.
+Connected U2 pin 2 to /Battery_Charger/SYSTEM.
+Connected U2 pin 11 to /Battery_Charger/TTC.
+Connected U2 pin 19 to Net-(U2-~{BATDRV}).
+Updated U2 unit metadata.
+Updated C7 fields.
+Added U3 (footprint 'SamacSys_Parts:BK18650PC6').
+Changed U** reference designator to U3.
+Changed U3 value from BK18650PC6 to BK-18650-PC6.
+Updated U3 symbol association from  to /fb838705-f41a-4b28-80bb-c9287fc74c71.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'USB_UPS_Raspberry.kicad_sch'.
+Connected U3 pin 1 to /Battery_Protection/Bat1+.
+Connected U3 pin 12 to unconnected-(U3-Pad12).
+Connected U3 pin 11 to unconnected-(U3-Pad11).
+Connected U3 pin 6 to /Battery_Protection/Bat2+.
+Connected U3 pin 9 to unconnected-(U3-Pad9).
+Connected U3 pin 5 to /Battery_Protection/Bat1+.
+Connected U3 pin 4 to -BATT.
+Connected U3 pin 2 to /Battery_Protection/Bat2+.
+Connected U3 pin 8 to unconnected-(U3-Pad8).
+Connected U3 pin 10 to unconnected-(U3-Pad10).
+Connected U3 pin 7 to unconnected-(U3-Pad7).
+Connected U3 pin 3 to /Battery_Charger/PACK+.
+Updated U3 unit metadata.
+Removed unused net /USB-PD/FAULT_IN.
+Warning: Warning: D23 footprint 'SOD3716X135N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: H4 footprint 'MountingHole_3.2mm_M3' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: H5 footprint 'MountingHole_3.2mm_M3' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component Q3 pad 10 (no pin 10 in symbol).
+Warning: Warning: D20 footprint 'SOD3716X135N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component Q7 pad 9 (no pin 9 in symbol).
+Warning: Warning: H7 footprint 'MountingHole_3.2mm_M3' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: D21 footprint 'SOD3716X135N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: H6 footprint 'MountingHole_3.2mm_M3' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: D22 footprint 'SOD3716X135N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component Q3 pad 11 (no pin 11 in symbol).
+Warning: Warning: C37 footprint 'CAPAE530X550N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component Q3 pad 9 (no pin 9 in symbol).
+
+
+Info: Total warnings: 13, errors: 0.

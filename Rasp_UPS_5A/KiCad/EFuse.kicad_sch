@@ -655,268 +655,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:SS54-HF"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 12.7 8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "SS54-HF"
-				(at 12.7 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "DIOM5025X220N"
-				(at 12.7 -93.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf"
-				(at 12.7 -193.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "DIODE SCHOTTKY 5A 40V SMA"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "2.2"
-				(at 12.7 -393.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "750-SS54-HF"
-				(at 12.7 -493.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS54-HF?qs=GBLSl2AkiruU27AsKMcmrg%3D%3D"
-				(at 12.7 -593.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "Comchip Technology"
-				(at 12.7 -693.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SS54-HF"
-				(at 12.7 -793.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "SS54-HF_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.604 -1.524) (xy 6.604 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 8.636 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 12.7 2.54) (xy 12.7 -2.54) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 6.604 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.636 1.524) (xy 8.636 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 0) (xy 15.24 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 17.78 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SamacSys_Parts:TPS259814LRPWR"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1424,8 +1162,8 @@
 		)
 	)
 	(rectangle
-		(start 172.72 30.48)
-		(end 260.35 69.85)
+		(start 113.03 21.59)
+		(end 203.2 60.96)
 		(stroke
 			(width 0)
 			(type default)
@@ -1433,25 +1171,13 @@
 		(fill
 			(type none)
 		)
-		(uuid "93570ce1-8ebd-4d4a-ac7e-89c95df44347")
-	)
-	(junction
-		(at 121.92 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0575c0bc-705d-442b-b5a3-77704d7414dd")
+		(uuid "8879aede-272b-41a4-8200-1c269cbbfef5")
 	)
 	(junction
 		(at 49.53 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f4c6c53-4f39-49cf-a5df-321c2bd3e084")
-	)
-	(junction
-		(at 171.45 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "258e6238-01ff-400f-91b9-3c2aa1ea5c59")
 	)
 	(junction
 		(at 158.75 133.35)
@@ -1464,12 +1190,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3143f2ee-1a97-426c-a751-e3ed77f789e6")
-	)
-	(junction
-		(at 184.15 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4551cb22-6a27-4bcc-a52a-b3f44d0c9f6e")
 	)
 	(junction
 		(at 74.93 90.17)
@@ -1500,12 +1220,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76af1ccb-b22f-4c25-953d-a958c9b9e302")
-	)
-	(junction
-		(at 184.15 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7cbf59a4-68c4-4c8b-b6ce-881d805307bb")
 	)
 	(junction
 		(at 120.65 133.35)
@@ -1561,23 +1275,13 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 60.96) (xy 195.58 60.96)
+			(xy 179.07 52.07) (xy 186.69 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0ded9719-0832-4872-9f36-cc8809dfadb1")
-	)
-	(wire
-		(pts
-			(xy 184.15 116.84) (xy 184.15 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12613768-62ef-4492-9497-400dcd042ce0")
+		(uuid "10ba5aba-4c09-4c6e-8889-edf162b5b535")
 	)
 	(wire
 		(pts
@@ -1601,13 +1305,13 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 50.8) (xy 195.58 50.8)
+			(xy 132.08 46.99) (xy 138.43 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1b7f42cd-481c-4b5a-9730-f0e77d9d4de0")
+		(uuid "1cba0b3d-600c-4825-b0b4-7a7ba25b6b03")
 	)
 	(wire
 		(pts
@@ -1641,13 +1345,23 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 55.88) (xy 243.84 55.88)
+			(xy 179.07 41.91) (xy 186.69 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2cbb3f1f-4363-4118-9eb9-a0dca10cc214")
+		(uuid "30d5588a-2ab5-4dd2-ac3c-7874183a1767")
+	)
+	(wire
+		(pts
+			(xy 179.07 44.45) (xy 186.69 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "313e41ee-603e-41b8-846b-dc1cda60d338")
 	)
 	(wire
 		(pts
@@ -1661,16 +1375,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 55.88) (xy 195.58 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3603bd5d-dd86-4db5-9639-5ac6aa6e6c22")
-	)
-	(wire
-		(pts
 			(xy 198.12 90.17) (xy 198.12 100.33)
 		)
 		(stroke
@@ -1681,23 +1385,13 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 101.6) (xy 184.15 90.17)
+			(xy 132.08 41.91) (xy 138.43 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3ecd6b52-8dc9-4c42-a75f-143be6fb1472")
-	)
-	(wire
-		(pts
-			(xy 236.22 50.8) (xy 243.84 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fdff409-7fc1-417c-86ae-16e15c9f6576")
+		(uuid "46b9a6c2-1120-403b-b757-53b7810ee46b")
 	)
 	(wire
 		(pts
@@ -1708,16 +1402,6 @@
 			(type default)
 		)
 		(uuid "481e611c-42ec-4f7c-906d-c1ec0079f13e")
-	)
-	(wire
-		(pts
-			(xy 236.22 60.96) (xy 243.84 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "498edc85-363a-402f-ab7c-f59ad016ad1f")
 	)
 	(wire
 		(pts
@@ -1761,6 +1445,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 49.53) (xy 186.69 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57ebf40a-141c-463c-838c-41f4dbd5be25")
+	)
+	(wire
+		(pts
 			(xy 120.65 120.65) (xy 120.65 123.19)
 		)
 		(stroke
@@ -1768,6 +1462,16 @@
 			(type default)
 		)
 		(uuid "5901308a-cd9e-4f66-9a41-9574a9764373")
+	)
+	(wire
+		(pts
+			(xy 132.08 36.83) (xy 138.43 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c5e24ff-b921-4d8c-b28a-7bf53efbfbf0")
 	)
 	(wire
 		(pts
@@ -1791,16 +1495,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 45.72) (xy 195.58 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "697dce54-0c43-4e14-9b4c-38aa39103d49")
-	)
-	(wire
-		(pts
 			(xy 119.38 148.59) (xy 119.38 149.86)
 		)
 		(stroke
@@ -1821,7 +1515,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 133.35) (xy 184.15 133.35)
+			(xy 158.75 133.35) (xy 198.12 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1851,16 +1545,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 90.17) (xy 135.89 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76fb8847-2189-4037-95c5-21fb42a459cf")
-	)
-	(wire
-		(pts
 			(xy 119.38 148.59) (xy 143.51 148.59)
 		)
 		(stroke
@@ -1871,16 +1555,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 53.34) (xy 243.84 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a2e5819-f83e-4544-a93e-c1b30a49c19c")
-	)
-	(wire
-		(pts
 			(xy 143.51 149.86) (xy 143.51 148.59)
 		)
 		(stroke
@@ -1888,6 +1562,16 @@
 			(type default)
 		)
 		(uuid "7b73d505-0d5b-4c2c-9899-0bd99dcb6d4e")
+	)
+	(wire
+		(pts
+			(xy 132.08 52.07) (xy 138.43 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eb306ae-875e-41c7-9909-0edfe19ba796")
 	)
 	(wire
 		(pts
@@ -1921,13 +1605,13 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 90.17) (xy 171.45 90.17)
+			(xy 132.08 39.37) (xy 138.43 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8dbc4317-d0d0-4d5f-91b1-325cea0292ee")
+		(uuid "8ce1f196-598b-4023-b6bc-8c5617f50d00")
 	)
 	(wire
 		(pts
@@ -1961,17 +1645,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 58.42) (xy 243.84 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a137a793-9f17-4ce3-8225-b3479f4196de")
-	)
-	(wire
-		(pts
-			(xy 184.15 90.17) (xy 198.12 90.17)
+			(xy 171.45 90.17) (xy 198.12 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1991,23 +1665,23 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 45.72) (xy 243.84 45.72)
+			(xy 179.07 36.83) (xy 186.69 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b4c794f8-dc24-46f0-9e00-aaba35792d6e")
+		(uuid "af787ce9-2887-4e94-858b-4874c74a629b")
 	)
 	(wire
 		(pts
-			(xy 171.45 90.17) (xy 167.64 90.17)
+			(xy 132.08 44.45) (xy 138.43 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bbc3335a-239f-4daf-bf91-bc30dd16340f")
+		(uuid "b18d0af4-c637-42c4-91da-ea29fed644c6")
 	)
 	(wire
 		(pts
@@ -2061,13 +1735,13 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 48.26) (xy 243.84 48.26)
+			(xy 132.08 49.53) (xy 138.43 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d6ec5216-5387-4c67-b65b-335181d9a7fb")
+		(uuid "d08aa81f-83a3-46e6-ab50-593e6cb9d1ad")
 	)
 	(wire
 		(pts
@@ -2081,13 +1755,13 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 48.26) (xy 195.58 48.26)
+			(xy 179.07 39.37) (xy 186.69 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e00e58ac-382d-44fe-b280-f425ba8c95c9")
+		(uuid "dca6f647-d9f3-4061-badc-d839b4486ed3")
 	)
 	(wire
 		(pts
@@ -2111,23 +1785,13 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 133.35) (xy 198.12 133.35)
+			(xy 179.07 46.99) (xy 186.69 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ec1d14a6-70cc-4312-8b21-5bcaab1be825")
-	)
-	(wire
-		(pts
-			(xy 189.23 53.34) (xy 195.58 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec7a2879-7aa8-4dd5-9722-b87016b1b968")
+		(uuid "ea6874c4-b47b-4e66-bc82-c16f7cf67fe7")
 	)
 	(wire
 		(pts
@@ -2159,16 +1823,6 @@
 		)
 		(uuid "fb0f7e42-75f6-4a1f-ab41-92f68af469cb")
 	)
-	(wire
-		(pts
-			(xy 189.23 58.42) (xy 195.58 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb2f8fd0-1dc3-41f8-a2e3-02af9f1721f2")
-	)
 	(label "ILM"
 		(at 158.75 120.65 0)
 		(effects
@@ -2179,15 +1833,45 @@
 		)
 		(uuid "05346b35-6bb4-4320-a9a2-fad94b800c81")
 	)
-	(label "OUT"
-		(at 189.23 58.42 180)
+	(label "GND"
+		(at 186.69 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "27083933-d553-4a83-88e8-c78234782604")
+		(uuid "116b87dd-4621-4b33-b198-3ea106f33671")
+	)
+	(label "EN{slash}UVLO"
+		(at 186.69 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1738337f-fbb9-4d38-bc0f-eaf5802f7ea7")
+	)
+	(label "FLT"
+		(at 186.69 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1c07d3bf-2e76-42da-b151-5cca28649a99")
+	)
+	(label "ITIMER"
+		(at 186.69 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c8d212b-35a5-41e5-a4cb-944e37bcd13a")
 	)
 	(label "EN{slash}UVLO"
 		(at 83.82 99.06 0)
@@ -2200,74 +1884,44 @@
 		(uuid "3505c570-44f7-4e21-8b60-c3ef8d98a170")
 	)
 	(label "ITIMER"
-		(at 243.84 50.8 0)
+		(at 186.69 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "3a89315a-0d1d-4d2c-98c0-1c1aa8d4bb39")
+		(uuid "3c8bbf53-49f1-4348-a4a6-1d1f69bd97c9")
 	)
-	(label "FLT"
-		(at 243.84 58.42 0)
+	(label "ILM"
+		(at 186.69 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "3e298f76-ca38-42e3-b788-c50763d03bf2")
+		(uuid "4811ced7-8cc3-4aa9-aa99-3af7af880d0a")
 	)
-	(label "IN"
-		(at 189.23 55.88 180)
+	(label "DVDT"
+		(at 186.69 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56cd3609-5fea-46ed-b794-97cc51569e80")
+	)
+	(label "EN{slash}UVLO"
+		(at 132.08 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "3f18bfa8-2e7f-462c-a341-a5249eb5a8e0")
-	)
-	(label "EN{slash}UVLO"
-		(at 243.84 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3f5d5e19-b906-4499-ac0d-e86dc82f62cd")
-	)
-	(label "GND"
-		(at 243.84 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "402fb17e-d355-4558-854c-bff0c7d7b2f0")
-	)
-	(label "ILM"
-		(at 243.84 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "63658c8e-4808-42b5-af92-235aa3f73654")
-	)
-	(label "IN"
-		(at 135.89 90.17 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "77b65322-9df1-44ef-a7ec-dbfc94e7d947")
+		(uuid "570133fe-039f-4b5d-82be-f9a3a83f5ebb")
 	)
 	(label "DVDT"
 		(at 139.7 120.65 0)
@@ -2279,16 +1933,6 @@
 		)
 		(uuid "7869f11d-17c3-4c29-93a2-36fc1ba8d9a1")
 	)
-	(label "DVDT"
-		(at 243.84 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8571a438-1050-434a-8024-6140826d2185")
-	)
 	(label "PG"
 		(at 111.76 165.1 180)
 		(effects
@@ -2298,46 +1942,6 @@
 			(justify right bottom)
 		)
 		(uuid "86453d66-2016-42c4-87a2-f17e4ba45ab1")
-	)
-	(label "EN{slash}UVLO"
-		(at 189.23 45.72 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "99bcf6e8-7487-4618-b22f-82ca5c3985d6")
-	)
-	(label "-EN{slash}OVLO"
-		(at 189.23 48.26 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a0c4c23b-1d56-42e7-a263-ba7f278aab9b")
-	)
-	(label "OUT"
-		(at 167.64 90.17 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a25aaa14-78ee-471a-b0dd-77b847153d6b")
-	)
-	(label "FLT"
-		(at 189.23 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a8f279ba-7592-472c-9107-76c433944c43")
 	)
 	(label "FLT"
 		(at 135.89 165.1 180)
@@ -2350,14 +1954,14 @@
 		(uuid "ad914115-ff98-4660-b1e5-b00c680c28be")
 	)
 	(label "PG"
-		(at 189.23 50.8 180)
+		(at 132.08 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "b8bcff4b-063b-4be9-80f6-13a5c3211061")
+		(uuid "b7a591e5-b034-4b0e-a9d1-8a80c9b24daf")
 	)
 	(label "GND"
 		(at 104.14 133.35 0)
@@ -2369,25 +1973,25 @@
 		)
 		(uuid "c8e398c8-b671-41b7-a979-482317983f15")
 	)
-	(label "ITIMER"
-		(at 243.84 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e002de94-830a-48e1-a618-4f6dfbd217f8")
-	)
 	(label "DVDT"
-		(at 189.23 60.96 180)
+		(at 132.08 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "f4f8bce7-a4d3-4e83-ad2f-3fda6cb73335")
+		(uuid "e1d4b15b-b5dd-4799-8d0a-3723645c4573")
+	)
+	(label "FLT"
+		(at 132.08 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f4315da9-1e8e-47aa-ac63-a1e8542a3311")
 	)
 	(label "ITIMER"
 		(at 120.65 120.65 0)
@@ -2398,6 +2002,16 @@
 			(justify left bottom)
 		)
 		(uuid "f6c2a2fc-706f-4f6b-b15b-a1c09bf908ec")
+	)
+	(label "-EN{slash}OVLO"
+		(at 132.08 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f8ee036e-2a3d-4a11-b43b-e32843171898")
 	)
 	(label "-EN{slash}OVLO"
 		(at 104.14 99.06 0)
@@ -2411,6 +2025,28 @@
 	)
 	(hierarchical_label "EFuse_Power_Out"
 		(shape output)
+		(at 132.08 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a5a004a-c4c6-449f-95a7-9e7e9925ab18")
+	)
+	(hierarchical_label "POWER"
+		(shape input)
+		(at 132.08 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a7db45f-a69b-4985-a8e9-f7791c4be596")
+	)
+	(hierarchical_label "EFuse_Power_Out"
+		(shape output)
 		(at 214.63 90.17 0)
 		(effects
 			(font
@@ -2420,7 +2056,7 @@
 		)
 		(uuid "7e8023e3-e9f7-425b-8ed1-7dcd6e567ea0")
 	)
-	(hierarchical_label "VIN"
+	(hierarchical_label "POWER"
 		(shape input)
 		(at 34.29 90.17 180)
 		(effects
@@ -2771,6 +2407,184 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:TPS259814LRPWR")
+		(at 138.43 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "308f1d09-ca44-4d0a-975a-5185b3756d41")
+		(property "Reference" "IC4"
+			(at 158.75 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS259814LRPWR"
+			(at 158.75 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:TPS259470ARPWR"
+			(at 175.26 131.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps25981.pdf?ts=1739940909741&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS25981%252Fpart-details%252FTPS259814LRPWR"
+			(at 175.26 231.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Hot Swap Voltage Controllers 2.7-V to 16-V 10-A 6-mohm eFuse with t"
+			(at 138.43 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 175.26 431.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 175.26 531.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 175.26 631.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 175.26 731.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS259814LRPWR"
+			(at 175.26 831.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "8"
+			(uuid "9a742db1-60b2-4d20-912a-6f820b828239")
+		)
+		(pin "5"
+			(uuid "055f0135-20a4-4567-804d-a76a0dd75a67")
+		)
+		(pin "4"
+			(uuid "19ae97d7-3a5a-4322-92de-279695797a5a")
+		)
+		(pin "14"
+			(uuid "a901cdb3-0976-48ba-be51-97ed4bbecd2e")
+		)
+		(pin "11"
+			(uuid "0089dbf6-8b95-4339-91bf-f1a99f719b5e")
+		)
+		(pin "13"
+			(uuid "cffcc8b2-efc5-4139-9dae-b4a3fcbd7222")
+		)
+		(pin "6"
+			(uuid "f9a6c3b5-6083-4351-85da-288a5a8c0b55")
+		)
+		(pin "2"
+			(uuid "a2880759-27e1-4ba7-9d6d-9401dbbaefff")
+		)
+		(pin "10"
+			(uuid "fffd4afe-62b2-429c-9edd-bcf0f64ed6d3")
+		)
+		(pin "9"
+			(uuid "d37c44d6-66d9-435c-aee5-e7f55d0ed2cb")
+		)
+		(pin "12"
+			(uuid "45d7d595-29ff-44b9-ae13-0e53bbdcd811")
+		)
+		(pin "3"
+			(uuid "64d0736b-7519-4e12-960e-c0f1a12ef739")
+		)
+		(pin "1"
+			(uuid "2d3ce68f-fc66-4065-b38b-1a0169abebaa")
+		)
+		(pin "7"
+			(uuid "eb5dd36f-c997-4f69-a65a-8262cd5f25fb")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f"
+					(reference "IC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 143.51 153.67 0)
 		(unit 1)
@@ -2929,150 +2743,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f"
 					(reference "R61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:SS54-HF")
-		(at 184.15 99.06 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c7fc1e9-e225-46e0-a5b9-ad2ee0ad3c2d")
-		(property "Reference" "D14"
-			(at 187.96 107.9499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS54-HF"
-			(at 187.96 110.4899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:DIOM5025X220N"
-			(at 90.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf"
-			(at -9.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "DIODE SCHOTTKY 5A 40V SMA"
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "2.2"
-			(at -209.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "750-SS54-HF"
-			(at -309.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS54-HF?qs=GBLSl2AkiruU27AsKMcmrg%3D%3D"
-			(at -409.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Comchip Technology"
-			(at -509.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SS54-HF"
-			(at -609.5 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "2"
-			(uuid "baa27759-48b8-4f4a-a74c-6525ca952af7")
-		)
-		(pin "1"
-			(uuid "cee0bb77-221a-4abf-90c5-314f15b58e44")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f"
-					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -3974,184 +3644,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f"
 					(reference "C51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:TPS259814LRPWR")
-		(at 195.58 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f52d10c7-caec-44e9-8bec-8bfb8cd1e15a")
-		(property "Reference" "IC4"
-			(at 215.9 38.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS259814LRPWR"
-			(at 215.9 40.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:TPS259470ARPWR"
-			(at 232.41 140.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps25981.pdf?ts=1739940909741&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS25981%252Fpart-details%252FTPS259814LRPWR"
-			(at 232.41 240.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "Hot Swap Voltage Controllers 2.7-V to 16-V 10-A 6-mohm eFuse with t"
-			(at 195.58 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 232.41 440.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 232.41 540.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 232.41 640.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 232.41 740.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TPS259814LRPWR"
-			(at 232.41 840.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "8"
-			(uuid "a1654a3f-cba9-43a8-bae2-d82eb659fd52")
-		)
-		(pin "5"
-			(uuid "3d083613-5bc9-491c-aa6c-e0d9fc2ea3e7")
-		)
-		(pin "4"
-			(uuid "76a9956e-d765-4ad9-853e-fea71e3fb851")
-		)
-		(pin "14"
-			(uuid "31ea07cd-078a-452c-980c-323da2e1c892")
-		)
-		(pin "11"
-			(uuid "5ce3bb16-4da8-445a-afb5-444b5af98a0f")
-		)
-		(pin "13"
-			(uuid "5bfae14c-7f79-4bca-be13-220f8d250b62")
-		)
-		(pin "6"
-			(uuid "d7a4e624-8954-4953-aa97-7b4efec0738c")
-		)
-		(pin "2"
-			(uuid "4d258b5c-62f9-4e2a-b744-46a3cf004723")
-		)
-		(pin "10"
-			(uuid "c5c82dc3-ae5b-48ec-bf32-cce0b4d2c641")
-		)
-		(pin "9"
-			(uuid "479e7fbf-3c89-45da-8e00-4a361850cdc0")
-		)
-		(pin "12"
-			(uuid "0e1547a3-c991-4357-9e51-b388fe82393c")
-		)
-		(pin "3"
-			(uuid "4cfd92b1-7e5e-40a7-9447-9ecd0a072674")
-		)
-		(pin "1"
-			(uuid "c1e09265-9f81-4843-8aee-63d6f65e82ac")
-		)
-		(pin "7"
-			(uuid "0e104044-9a1e-4283-83f0-4d2bb2c1cee8")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f"
-					(reference "IC4")
 					(unit 1)
 				)
 			)

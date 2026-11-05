@@ -160,160 +160,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:SMF7V5A"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SMF7V5A"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SMF"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.vishay.com/doc?85881"
-				(at -1.27 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 7.5Vrwm, SMF"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "diode TVS voltage suppressor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "D*SMF*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SMF7V5A_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SMF7V5A_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SamacSys_Parts:CSD17577Q5AT"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -982,16 +828,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "maybe not needed?"
-		(exclude_from_sim no)
-		(at 75.184 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "92c559d4-b698-41d0-b056-04ffc70c8e45")
-	)
 	(junction
 		(at 152.4 106.68)
 		(diameter 0)
@@ -1027,12 +863,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad1bab7f-64f3-4a29-803e-c9159539b9db")
-	)
-	(junction
-		(at 76.2 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1148275-ad08-4834-803a-3603cfdf02f0")
 	)
 	(junction
 		(at 198.12 67.31)
@@ -1110,16 +940,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 95.25) (xy 76.2 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "227be750-f735-428b-92f8-4c74e03734f7")
-	)
-	(wire
-		(pts
 			(xy 114.3 64.77) (xy 153.67 64.77)
 		)
 		(stroke
@@ -1150,7 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 87.63) (xy 90.17 87.63)
+			(xy 67.31 87.63) (xy 90.17 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1350,16 +1170,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 87.63) (xy 76.2 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d08e4aa9-d9dd-4344-878b-2fa279c35c3f")
-	)
-	(wire
-		(pts
 			(xy 114.3 101.6) (xy 114.3 99.06)
 		)
 		(stroke
@@ -1448,7 +1258,7 @@
 		)
 		(uuid "fd776947-92f5-4d22-b2ea-a5c01b7727df")
 	)
-	(hierarchical_label "VIN"
+	(hierarchical_label "EFuse_Power_Out"
 		(shape input)
 		(at 67.31 87.63 180)
 		(effects
@@ -1543,84 +1353,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/bcde4c17-5920-4985-9e2f-9ce573c23c4d"
 					(reference "#PWR068")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 76.2 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ba79e8c-3183-431d-8cca-bad0f0b4b0b5")
-		(property "Reference" "#PWR061"
-			(at 76.2 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 76.2 102.87 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "BQ24133RGYR"
-			(at 76.2 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ead30295-d24b-4048-9f3c-6ad139c43d77")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/bcde4c17-5920-4985-9e2f-9ce573c23c4d"
-					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2443,88 +2175,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/bcde4c17-5920-4985-9e2f-9ce573c23c4d"
 					(reference "C54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SMF7V5A")
-		(at 76.2 91.44 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea6dd625-b83e-462c-a5a7-36709237dcad")
-		(property "Reference" "D17"
-			(at 78.74 90.1699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF7V5A"
-			(at 78.74 92.7099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 71.12 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 76.2 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 7.5Vrwm, SMF"
-			(at 76.2 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5ec8d7ee-2c56-4a5c-8e0b-1bf64dab2f08")
-		)
-		(pin "2"
-			(uuid "41aa21c0-d607-47a5-8b44-653b6f84f090")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/bcde4c17-5920-4985-9e2f-9ce573c23c4d"
-					(reference "D17")
 					(unit 1)
 				)
 			)

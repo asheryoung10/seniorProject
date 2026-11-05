@@ -144,4 +144,34 @@ K
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4162-l.pdf
 $ENDCMP
 #
+$CMP 875105242006
+D WCAP-PSLP Aluminum Polymer Capacitors PSEC055470M010DVCTBB000; SMT V-Chip; 47 F +/- 20%; 10 V(DC); 2000 h; -55C / +105C; size DxL 5.0 x 5.5; ESR 30 m; Max. Iripple 1970 mA @100 kHz; LC 300 A; DF 8 %
+K
+F https://www.we-online.com/catalog/datasheet/875105242006.pdf
+$ENDCMP
+#
+$CMP BAT46W-TP-B002
+D 200mW Schottky Diode 100 Volts
+K
+F https://mccsemi.com/pdf/Products/BAT46W(SOD-123).pdf
+$ENDCMP
+#
+$CMP GYC1V151MCQ1GS
+D 150 F 35 V Aluminum - Polymer Capacitors Radial, Can - SMD 27mOhm 4000 Hrs @ 135C
+K
+F https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-gyc.pdf
+$ENDCMP
+#
+$CMP 1825910-6
+D Body Features: Product Orientation Vertical | Case Material Nylon | Actuator Force 5.64 OZ | Cover Material PET Film | Actuator Force 160 G | Actuator Color Black | Actuator Material PBT | Actuator Profile Extended | Case Color Black | Configuration Features: Operating Function NO | Ganged With | Support Bracket Without | Switch Feedback Type Tactile | Configuration (Pole-Throw) Single Pole - Single Throw | Number of Actuators Single | ESD Grounding Terminal Without | Contact Features: Contact Base Material
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&DocType=Catalog%20Section&DocLang=English&PartCntxt=1825910-6&DocFormat=pdf
+$ENDCMP
+#
+$CMP APXG250ARA470MF61G
+D Aluminum Organic Polymer Capacitors 25Volts 47uF 6X6
+K
+F https://www.chemi-con.co.jp/products/relatedfiles/capacitor/catalog/PXGRA-e.PDF
+$ENDCMP
+#
 #End Doc Library

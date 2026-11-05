@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.43,
+          "width": 0.38
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,8 +52,8 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 0.2,
+          "corner_smoothing": 1,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -61,7 +61,7 @@
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
           "min_clearance": 0.3048,
-          "min_island_area": 10.0,
+          "min_island_area": 0.0013161349,
           "min_thickness": 0.25,
           "pad_connection": 1,
           "remove_islands": 0,
@@ -213,8 +213,14 @@
         0.0,
         0.254,
         0.3048,
+        0.4572,
         0.6096,
-        0.9144
+        0.889,
+        0.9144,
+        1.143,
+        1.27,
+        1.524,
+        2.3114
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -246,6 +252,26 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.9,
+          "drill": 0.5
+        },
+        {
+          "diameter": 1.15,
+          "drill": 0.75
+        },
+        {
+          "diameter": 1.4,
+          "drill": 1.0
+        },
+        {
+          "diameter": 1.9,
+          "drill": 1.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -746,7 +772,7 @@
         "uuid": "670ad2a5-a109-48f4-9046-08077d2e5ed4"
       }
     ],
-    "used_designators": "J1,R1-14,IC1,C1-12,C37,D1-6,#PWR1-24,U1",
+    "used_designators": "J1,R1-14,R49-50,IC1,IC4,IC6,C1-12,C29-31,C35,C37,C44-45,C48,C58,C61-62,D1-6,D8,D10,D12-14,D20-23,#PWR1-24,#PWR61,#PWR69-73,U1",
     "variants": []
   },
   "sheets": [

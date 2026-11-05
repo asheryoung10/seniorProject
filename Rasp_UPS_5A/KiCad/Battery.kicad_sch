@@ -481,172 +481,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:BAT46"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "BAT46"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-				(at 0 -4.445 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "http://www.vishay.com/docs/85662/bat46.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "100V 0.15A Small Signal Schottky Diode, DO-35"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "D*DO?35*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "BAT46_0_1"
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "BAT46_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Diode:BZT52Bxx"
 			(pin_numbers
 				(hide yes)
@@ -795,6 +629,160 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Diode:SMAJ13A"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SMAJ13A"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SMA"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
+				(at -1.27 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "400W unidirectional Transient Voltage Suppressor, 13.0Vr, SMA(DO-214AC)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "unidirectional diode TVS voltage suppressor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "D*SMA*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SMAJ13A_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SMAJ13A_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -984,6 +972,234 @@
 					(at 5.08 0 180)
 					(length 3.81)
 					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:BAT46W-TP-B002"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D20"
+				(at 11.4301 -3.81 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "BAT46W-TP-B002"
+				(at 8.8901 -3.81 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "SOD3716X135N"
+				(at 12.7 -93.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://mccsemi.com/pdf/Products/BAT46W(SOD-123).pdf"
+				(at 12.7 -193.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "200mW Schottky Diode 100 Volts"
+				(at 11.43 1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "1.35"
+				(at 12.7 -393.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "MCC"
+				(at 12.7 -493.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BAT46W-TP-B002"
+				(at 12.7 -593.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 12.7 -693.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 12.7 -793.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 12.7 -893.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 12.7 -993.65 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "BAT46W-TP-B002_0_1"
+				(polyline
+					(pts
+						(xy 8.255 -0.635) (xy 8.255 0) (xy 8.89 0) (xy 8.89 -2.54) (xy 9.525 -2.54) (xy 9.525 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.43 0) (xy 11.43 -2.54) (xy 8.89 -1.27) (xy 11.43 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.43 -1.27) (xy 8.89 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BAT46W-TP-B002_1_1"
+				(pin passive line
+					(at 6.35 -1.27 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 13.97 -1.27 180)
+					(length 2.54)
+					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2562,6 +2778,26 @@
 		)
 		(uuid "2c9055b9-df64-4c1d-9134-8ece100932a5")
 	)
+	(text "these balacing resistors will see about 40mA\n"
+		(exclude_from_sim no)
+		(at 79.502 85.852 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3adc81b0-35aa-43dc-8062-75faf1bfb1a2")
+	)
+	(text "6mOhm gives a overcurrent trip point of about 5.8A"
+		(exclude_from_sim no)
+		(at 102.616 143.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e64ac41f-d65b-4644-80e2-5bc8cdc743be")
+	)
 	(junction
 		(at 184.15 90.17)
 		(diameter 0)
@@ -2605,6 +2841,12 @@
 		(uuid "2ea26752-4d0f-460c-8c8a-2cca283a5ecb")
 	)
 	(junction
+		(at 200.66 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bf1c55f-db98-4aed-beb4-c74f462005f4")
+	)
+	(junction
 		(at 137.16 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2615,12 +2857,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b028f6c-fd08-4853-8fd6-463f8e3ca9f7")
-	)
-	(junction
-		(at 200.66 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b896afd-45df-493c-9e2d-ac7955abcd2f")
 	)
 	(junction
 		(at 66.04 87.63)
@@ -2647,6 +2883,12 @@
 		(uuid "704be9e5-01ce-42ea-af99-e8d19a39ab09")
 	)
 	(junction
+		(at 66.04 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c3282ba-7490-41b4-b875-c3da85cf2352")
+	)
+	(junction
 		(at 163.83 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2657,12 +2899,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e7c2656-ff0b-4b52-87dc-518b6a0e7a4b")
-	)
-	(junction
-		(at 66.04 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "944d9336-b44b-4293-bd0f-aa81d39c93d3")
 	)
 	(junction
 		(at 165.1 144.78)
@@ -2677,10 +2913,10 @@
 		(uuid "a0e24068-46bc-4f3f-acc8-7b9d73d86cdb")
 	)
 	(junction
-		(at 200.66 129.54)
+		(at 200.66 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b49ea626-2edb-41ae-b751-2936495324e0")
+		(uuid "abe4e1f9-3f8e-4e6f-8b64-12bd082ad215")
 	)
 	(junction
 		(at 130.81 85.09)
@@ -2747,6 +2983,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d9003d64-0b12-4401-82b8-e0f3640e90a5")
+	)
+	(junction
+		(at 165.1 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f09c7f1a-1d48-4865-9cfc-2a99f02474f8")
 	)
 	(junction
 		(at 163.83 118.11)
@@ -2838,7 +3080,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 125.73) (xy 80.01 125.73)
+			(xy 66.04 125.73) (xy 82.55 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2848,13 +3090,13 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 58.42) (xy 180.34 58.42)
+			(xy 165.1 52.07) (xy 180.34 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f9f6a18-9d6c-497f-93c7-e0607b60f410")
+		(uuid "1120871e-8902-4739-971f-d843fded9964")
 	)
 	(wire
 		(pts
@@ -3105,6 +3347,16 @@
 			(type default)
 		)
 		(uuid "4600531f-2ceb-46f1-a1a9-6cfd01207226")
+	)
+	(wire
+		(pts
+			(xy 200.66 125.73) (xy 200.66 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4662ae00-8cc8-46a1-bac2-11885386b35e")
 	)
 	(wire
 		(pts
@@ -3365,6 +3617,16 @@
 			(type default)
 		)
 		(uuid "81dd22a6-5658-4f64-aa4a-008622e664ef")
+	)
+	(wire
+		(pts
+			(xy 165.1 59.69) (xy 180.34 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "840b8e61-82ca-4a24-91f3-5d874b08441a")
 	)
 	(wire
 		(pts
@@ -3818,7 +4080,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 67.31) (xy 43.18 58.42)
+			(xy 43.18 52.07) (xy 43.18 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3908,13 +4170,13 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 125.73) (xy 200.66 129.54)
+			(xy 165.1 52.07) (xy 43.18 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3c293a7-9347-40c1-bf4b-cbe4efe55911")
+		(uuid "f1b604e4-eaaf-4bdd-9e81-743713cc81ac")
 	)
 	(wire
 		(pts
@@ -4016,6 +4278,16 @@
 		)
 		(uuid "ffec97d0-bb66-4268-990e-c9969a7b7070")
 	)
+	(label "GND"
+		(at 167.64 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "03de34a3-ca4e-49c8-8ac7-48ca9367b508")
+	)
 	(label "OCDP"
 		(at 115.57 171.45 0)
 		(effects
@@ -4066,16 +4338,6 @@
 		)
 		(uuid "66c1e566-a264-40c0-b986-af8902747939")
 	)
-	(label "GND"
-		(at 167.64 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6d703294-a6b1-408d-9b2a-05da26d0b156")
-	)
 	(label "AVDD"
 		(at 128.27 80.01 180)
 		(effects
@@ -4096,9 +4358,20 @@
 		)
 		(uuid "c65a6f99-472c-4ccc-9cc7-ebc388684464")
 	)
+	(hierarchical_label "PACK-"
+		(shape input)
+		(at 180.34 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c0991b3-2959-46cd-a104-c56b9b767a7e")
+	)
 	(hierarchical_label "PACK+"
 		(shape output)
-		(at 180.34 58.42 0)
+		(at 180.34 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4594,170 +4867,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
 					(reference "R41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 66.04 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20d5ee2f-c863-4ff7-998c-fa9dbdfeca04")
-		(property "Reference" "C31"
-			(at 69.85 92.7099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 69.85 95.2499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 67.0052 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 66.04 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6da111e8-d712-458d-84af-089fb4549c95")
-		)
-		(pin "1"
-			(uuid "25dec4c1-f6e2-4981-9d31-69c3672ca1a0")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:BAT46")
-		(at 167.64 129.54 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2db18a93-bb34-4b81-9f80-228d54ea5b3b")
-		(property "Reference" "D10"
-			(at 170.18 128.5874 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "BAT46"
-			(at 170.18 131.1274 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 172.085 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85662/bat46.pdf"
-			(at 167.64 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A Small Signal Schottky Diode, DO-35"
-			(at 167.64 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ce33ca89-5342-4edb-a9c6-61c723bafd6b")
-		)
-		(pin "2"
-			(uuid "1524ad3e-e651-4fe4-a8ce-f96ac0c8aa3d")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
-					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -5292,8 +5401,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 66.04 109.22 0)
+		(lib_id "SamacSys_Parts:BAT46W-TP-B002")
+		(at 166.37 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5302,31 +5411,55 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4b15f0ce-1c55-46e6-b0f8-6cef7dbce040")
-		(property "Reference" "C30"
-			(at 69.85 107.9499 0)
+		(uuid "49bfb5a0-d971-469e-a012-9964bfae913c")
+		(property "Reference" "D20"
+			(at 170.18 128.2699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1uF"
-			(at 69.85 110.4899 0)
+		(property "Value" "BAT46W-TP-B002"
+			(at 170.18 130.8099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 67.0052 113.03 0)
+		(property "Footprint" "SamacSys_Parts:SOD3716X135N"
+			(at 260.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://mccsemi.com/pdf/Products/BAT46W(SOD-123).pdf"
+			(at 360.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "200mW Schottky Diode 100 Volts"
+			(at 164.846 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5336,8 +5469,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 66.04 109.22 0)
+		(property "Height" "1.35"
+			(at 560.02 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5345,10 +5478,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 66.04 109.22 0)
+		(property "Manufacturer_Name" "MCC"
+			(at 660.02 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5356,18 +5490,79 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 			)
 		)
-		(pin "2"
-			(uuid "a9452761-b39c-47a8-9b0c-a4188a1782f8")
+		(property "Manufacturer_Part_Number" "BAT46W-TP-B002"
+			(at 760.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 860.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 960.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1060.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1160.02 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
 		)
 		(pin "1"
-			(uuid "dac78854-1373-4ea2-ac3e-9510b6784ac7")
+			(uuid "74c27b8b-3767-45ab-be83-32407d131fea")
+		)
+		(pin "2"
+			(uuid "125682c3-ff17-4709-abf4-7228cb10c908")
 		)
 		(instances
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
-					(reference "C30")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -5645,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 213.36 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6018,88 +6213,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 66.04 121.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7294ff8c-fedf-4a6f-a7a8-a72771d7419a")
-		(property "Reference" "C29"
-			(at 69.85 120.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 69.85 123.1899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 67.0052 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 66.04 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "219da278-587a-47d8-94eb-698d2c5f643a")
-		)
-		(pin "1"
-			(uuid "28555942-e7e0-4a6d-bfbb-580b08260b33")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
-					(reference "C29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 165.1 140.97 0)
 		(unit 1)
@@ -6420,6 +6533,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 66.04 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d7ddd13-b2bb-476c-9808-3e5844cd478f")
+		(property "Reference" "C30"
+			(at 69.85 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1 uF"
+			(at 69.85 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 67.0052 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6f158d6a-49fd-4dcf-bc85-54771d420699")
+		)
+		(pin "1"
+			(uuid "cd252375-3ec5-4638-b329-4fdda26e2e70")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:CSD17577Q5A")
 		(at 137.16 137.16 270)
 		(unit 1)
@@ -6592,6 +6787,257 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 66.04 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8adc17ec-88dd-41c5-89af-877810397982")
+		(property "Reference" "C29"
+			(at 69.85 120.6499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1 uF"
+			(at 69.85 123.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 67.0052 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0deb93e7-ad81-4d70-b135-4e74ec16426e")
+		)
+		(pin "1"
+			(uuid "1c981b38-c53d-4265-9046-0d352ff1bf6b")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:BAT46W-TP-B002")
+		(at 199.39 111.76 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "8b571a02-bb9b-4342-9938-10a84e5c8e3a")
+		(property "Reference" "D21"
+			(at 198.12 120.3324 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BAT46W-TP-B002"
+			(at 198.12 122.8724 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:SOD3716X135N"
+			(at 293.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://mccsemi.com/pdf/Products/BAT46W(SOD-123).pdf"
+			(at 393.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "200mW Schottky Diode 100 Volts"
+			(at 197.866 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.35"
+			(at 593.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "MCC"
+			(at 693.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BAT46W-TP-B002"
+			(at 793.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 893.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 993.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1093.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1193.04 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "1"
+			(uuid "99bfb51e-1609-4435-bc2d-67d55b551799")
+		)
+		(pin "2"
+			(uuid "904049ff-ea81-4278-b6b0-0d447853a630")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 111.76 125.73 0)
 		(unit 1)
@@ -6754,8 +7200,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:-BATT")
-		(at 80.01 125.73 180)
+		(lib_id "Device:C")
+		(at 66.04 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6764,30 +7210,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8fd3a542-5275-4f4a-925a-92b23c7c9d27")
-		(property "Reference" "#PWR025"
-			(at 80.01 121.92 0)
-			(hide yes)
+		(uuid "8ed64857-c072-4f75-80f5-b65511a475bb")
+		(property "Reference" "C31"
+			(at 69.85 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "-BATT"
-			(at 80.01 130.81 0)
+		(property "Value" "0.1 uF"
+			(at 69.85 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 80.01 125.73 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 67.0052 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6798,7 +7245,88 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 125.73 0)
+			(at 66.04 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b1ca3d67-d7a5-4d74-99d1-783c1a8c0f29")
+		)
+		(pin "1"
+			(uuid "7a790f83-5e5d-43f1-9006-f428f257fb11")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
+					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-BATT")
+		(at 82.55 125.73 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fd3a542-5275-4f4a-925a-92b23c7c9d27")
+		(property "Reference" "#PWR025"
+			(at 82.55 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-BATT"
+			(at 82.55 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6809,7 +7337,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-BATT\""
-			(at 80.01 125.73 0)
+			(at 82.55 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7398,6 +7926,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SMAJ13A")
+		(at 165.1 55.88 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4e9f748-4029-41d0-b4d8-92e973d603d3")
+		(property "Reference" "D10"
+			(at 167.64 54.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMAJ13A"
+			(at 167.64 57.1499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 160.02 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
+			(at 165.1 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "400W unidirectional Transient Voltage Suppressor, 13.0Vr, SMA(DO-214AC)"
+			(at 165.1 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1dfc9eb6-ca7a-49c2-8d1a-cbcde2e53f9b")
+		)
+		(pin "2"
+			(uuid "6a014b90-3f6b-495b-b579-f9547efc7c12")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 106.68 139.7 90)
 		(unit 1)
@@ -7419,7 +8029,7 @@
 				)
 			)
 		)
-		(property "Value" "5m"
+		(property "Value" "6m"
 			(at 106.68 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7429,7 +8039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 106.68 141.478 90)
 			(hide yes)
 			(show_name no)
@@ -7807,88 +8417,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BAT46")
-		(at 200.66 121.92 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "edd69838-69fa-432c-a060-90154942db6a")
-		(property "Reference" "D12"
-			(at 203.2 120.3324 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BAT46"
-			(at 203.2 122.8724 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 196.215 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85662/bat46.pdf"
-			(at 200.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A Small Signal Schottky Diode, DO-35"
-			(at 200.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "50442c90-7bec-45b3-9920-ba799e995c91")
-		)
-		(pin "2"
-			(uuid "91c6d930-b952-4adb-bf43-037449f44d8c")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/94fb3690-2598-49c1-a40b-984063e6e372"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:BZT52Bxx")
 		(at 173.99 140.97 270)
 		(unit 1)
@@ -7993,7 +8521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100 nF"
+		(property "Value" "0.1 uF"
 			(at 69.85 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)

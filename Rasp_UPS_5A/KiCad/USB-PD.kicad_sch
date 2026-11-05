@@ -673,9 +673,12 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Power_Protection:TVS2200DRV"
+		(symbol "Diode:SM6T15A"
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0)
+				(offset 1.016)
 				(hide yes)
 			)
 			(exclude_from_sim no)
@@ -683,41 +686,28 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 2.54 1.27 0)
+			(property "Reference" "D"
+				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "TVS2200DRV"
-				(at 2.54 -1.27 0)
+			(property "Value" "SM6T15A"
+				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
-				(at 5.08 -8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs2200.pdf"
-				(at -2.54 0 0)
+			(property "Footprint" "Diode_SMD:D_SMB"
+				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -727,7 +717,18 @@
 					)
 				)
 			)
-			(property "Description" "Flat-Clamp Surge Protection Device. 22Vrwm, WSON-6"
+			(property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf"
+				(at -1.27 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 15Vrwm, DO-214AA"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -738,7 +739,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "EMI, ESD, TVS protection transient"
+			(property "ki_keywords" "diode TVS voltage suppressor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -749,7 +750,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "WSON*1EP*2x2mm*P0.65mm*EP1x1.6mm*"
+			(property "ki_fp_filters" "D*SMB*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -760,86 +761,10 @@
 					)
 				)
 			)
-			(symbol "TVS2200DRV_0_0"
-				(rectangle
-					(start -11.43 2.54)
-					(end -5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "SM6T15A_0_1"
 				(polyline
 					(pts
-						(xy -8.255 2.54) (xy -8.255 3.81) (xy 0 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.255 -2.54) (xy -8.255 -3.81) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy -1.778 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "Det &"
-					(at -8.255 0.635 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "Drv"
-					(at -8.255 -1.27 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(symbol "TVS2200DRV_0_1"
-				(rectangle
-					(start -12.065 5.08)
-					(end 2.54 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.286 1.397) (xy -2.286 -1.524)
+						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -851,93 +776,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.286 0) (xy -5.08 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 1.778) (xy -1.778 -1.778)
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
 					)
 					(stroke
 						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -0.889 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -1.27) (xy -1.143 -1.651) (xy -1.143 -0.889) (xy -0.127 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 5.08) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -1.27) (xy -1.778 -1.27)
-					)
-					(stroke
-						(width 0)
 						(type default)
 					)
 					(fill
@@ -945,11 +787,11 @@
 					)
 				)
 			)
-			(symbol "TVS2200DRV_1_1"
-				(pin power_in line
-					(at 0 -7.62 90)
+			(symbol "SM6T15A_1_1"
+				(pin passive line
+					(at -3.81 0 0)
 					(length 2.54)
-					(name "GND"
+					(name "A1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -965,10 +807,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -7.62 90)
+					(at 3.81 0 180)
 					(length 2.54)
-					(hide yes)
-					(name "GND"
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -976,100 +817,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(hide yes)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(hide yes)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2377,18 +2124,6 @@
 		(uuid "097c010e-6a97-41f0-bed6-5149a72cb56c")
 	)
 	(rectangle
-		(start 173.99 149.86)
-		(end 194.31 158.75)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "2a85332c-89d8-4e4b-a905-a315631c634c")
-	)
-	(rectangle
 		(start 247.65 13.97)
 		(end 279.4 91.44)
 		(stroke
@@ -2449,12 +2184,6 @@
 		(uuid "f362a2f2-ad65-4e6a-99ad-121d4019eb20")
 	)
 	(junction
-		(at 119.38 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "184f70b2-84bb-42a0-9a76-68a744f7d466")
-	)
-	(junction
 		(at 78.74 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2483,6 +2212,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5aff2ed8-139d-498c-8fa0-56043ceb21bf")
+	)
+	(junction
+		(at 119.38 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7864c35b-9ea3-4dc2-87e6-870ed2b9cd5d")
 	)
 	(junction
 		(at 189.23 83.82)
@@ -2557,12 +2292,16 @@
 		(uuid "fa98cebf-86e9-40f8-8097-83afacf69463")
 	)
 	(no_connect
-		(at 191.77 152.4)
-		(uuid "c1f0a70a-af56-4c9f-9e35-415994abb5b2")
+		(at 106.68 104.14)
+		(uuid "4b529c0a-d8b9-45f9-ae10-a2a0b06a13e5")
 	)
 	(no_connect
-		(at 191.77 156.21)
-		(uuid "d0a04cbb-e24e-49e8-8ea1-1c27ecff4f28")
+		(at 166.37 86.36)
+		(uuid "8159fc71-d1f4-4c61-a77c-bfc7444d8322")
+	)
+	(no_connect
+		(at 166.37 111.76)
+		(uuid "b862a389-ff7f-4a76-a82a-bb1b5f6af39a")
 	)
 	(wire
 		(pts
@@ -2646,13 +2385,13 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 156.21) (xy 191.77 156.21)
+			(xy 119.38 22.86) (xy 129.54 22.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1ad72c0e-34bb-42bc-86b0-a23e50726f6a")
+		(uuid "175e874c-f853-49da-b232-99b4910e4181")
 	)
 	(wire
 		(pts
@@ -2713,16 +2452,6 @@
 			(type default)
 		)
 		(uuid "30a3a012-7ef1-447e-b5c7-1c3a1774c461")
-	)
-	(wire
-		(pts
-			(xy 182.88 152.4) (xy 191.77 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34fb992f-1132-4818-b75a-6d57c3ce6b86")
 	)
 	(wire
 		(pts
@@ -3096,7 +2825,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 22.86) (xy 129.54 22.86)
+			(xy 97.79 22.86) (xy 119.38 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3336,16 +3065,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 22.86) (xy 119.38 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d85dcc8e-dcd8-4dbc-ba14-3e85aa17c074")
-	)
-	(wire
-		(pts
 			(xy 157.48 93.98) (xy 166.37 93.98)
 		)
 		(stroke
@@ -3484,16 +3203,6 @@
 		)
 		(uuid "03495bf8-64b4-4dc9-98ec-3b2173b86e2b")
 	)
-	(label "DRAIN"
-		(at 166.37 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04483066-c2a6-4772-97db-9e89838d3d45")
-	)
 	(label "GND"
 		(at 166.37 96.52 0)
 		(effects
@@ -3504,6 +3213,16 @@
 		)
 		(uuid "0bed97c8-d253-4ccd-89a5-e9cf3e379d97")
 	)
+	(label "GND"
+		(at 106.68 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0de3f156-2ac0-42cd-8e16-2890bd716a08")
+	)
 	(label "SINK_EN"
 		(at 259.08 38.1 180)
 		(effects
@@ -3513,6 +3232,16 @@
 			(justify right bottom)
 		)
 		(uuid "11da4dba-e6dc-44a7-82ab-7ce48868b2a7")
+	)
+	(label "VBUS"
+		(at 106.68 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1652caf2-9a58-41d8-a0cb-b37207aac401")
 	)
 	(label "PPHV"
 		(at 106.68 119.38 180)
@@ -3644,16 +3373,6 @@
 		)
 		(uuid "356c0ce2-724f-4eb8-815b-b6a535312368")
 	)
-	(label "DRAIN"
-		(at 166.37 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "36f36248-0180-44f8-af06-b5b29277f932")
-	)
 	(label "LDO_3V3"
 		(at 35.56 153.67 180)
 		(effects
@@ -3673,16 +3392,6 @@
 			(justify right bottom)
 		)
 		(uuid "3e734494-a0f8-4f4b-ba59-d39cc6d837cb")
-	)
-	(label "FAULT_IN"
-		(at 106.68 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "40b14c29-4a00-4a83-9249-8bef9448dabe")
 	)
 	(label "LDO_3V3"
 		(at 78.74 153.67 180)
@@ -3764,16 +3473,6 @@
 		)
 		(uuid "5760b1b9-8db2-4923-880b-4e7710d18b13")
 	)
-	(label "FAULT_IN"
-		(at 182.88 152.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5eb0886a-0914-43fa-997e-f00672975a04")
-	)
 	(label "ADCIN4"
 		(at 102.87 165.1 0)
 		(effects
@@ -3804,15 +3503,15 @@
 		)
 		(uuid "692bea27-62c2-4633-81b2-66eeecf894b7")
 	)
-	(label "DRAIN"
-		(at 182.88 156.21 180)
+	(label "GND"
+		(at 106.68 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "73a111b9-6c88-40fc-9977-8f3dfa2fec92")
+		(uuid "69ee335d-a977-4960-a775-16d568d92631")
 	)
 	(label "CAP_MIS"
 		(at 106.68 81.28 180)
@@ -3833,26 +3532,6 @@
 			(justify right bottom)
 		)
 		(uuid "7610e517-d38a-430d-a738-232b8383243a")
-	)
-	(label "PLUG_FLIP"
-		(at 106.68 99.06 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7ffe5d78-331a-4588-b9e6-0d43d3b045a4")
-	)
-	(label "DBG_ACC"
-		(at 106.68 91.44 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "918db319-d363-4ce0-88bb-aad72c0109f0")
 	)
 	(label "VBUS"
 		(at 166.37 71.12 0)
@@ -4074,16 +3753,6 @@
 		)
 		(uuid "f7cde9f1-b58c-4c15-ba7a-38aafadfc952")
 	)
-	(label "DRAIN"
-		(at 106.68 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fbafa3b9-9e16-48bf-a7f7-51fc8f8f8807")
-	)
 	(label "VBUS"
 		(at 166.37 73.66 0)
 		(effects
@@ -4116,9 +3785,10 @@
 		)
 		(uuid "aca00fa7-03bc-4f2e-8024-16b065c6df65")
 	)
-	(hierarchical_label "15VUSB"
+	(hierarchical_label "PPHV"
 		(shape output)
 		(at 24.13 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4126,6 +3796,18 @@
 			(justify right)
 		)
 		(uuid "c9d16777-c178-4e20-acee-7d21991ef529")
+		(property "PPHV" ""
+			(at 24.13 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(hierarchical_label "CC1"
 		(shape input)
@@ -5106,7 +4788,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 38.1 0)
+		(at 119.38 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5117,7 +4799,7 @@
 		(fields_autoplaced yes)
 		(uuid "25ac8f96-1629-459c-8954-33686815463d")
 		(property "Reference" "#PWR022"
-			(at 119.38 44.45 0)
+			(at 119.38 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5128,7 +4810,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 43.18 0)
+			(at 119.38 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5138,7 +4820,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 38.1 0)
+			(at 119.38 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5149,7 +4831,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 38.1 0)
+			(at 119.38 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5160,7 +4842,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 38.1 0)
+			(at 119.38 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7326,7 +7008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "10uF"
 			(at 46.99 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7546,103 +7228,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Power_Protection:TVS2200DRV")
-		(at 119.38 30.48 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cfc41c45-8bd6-4474-b308-fb0efdcae423")
-		(property "Reference" "U1"
-			(at 123.19 29.2099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TVS2200DRV"
-			(at 123.19 31.7499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
-			(at 124.46 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs2200.pdf"
-			(at 116.84 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Flat-Clamp Surge Protection Device. 22Vrwm, WSON-6"
-			(at 119.38 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "6"
-			(uuid "f5869d8d-003a-44ce-8014-e97a1f64e4cb")
-		)
-		(pin "7"
-			(uuid "487df11a-7c0a-48c2-b0d2-8db2571da4ce")
-		)
-		(pin "4"
-			(uuid "cd1eea33-6144-4894-b475-c5b88ba8db3c")
-		)
-		(pin "1"
-			(uuid "cc1f0091-86f5-46bd-b78d-6e30d9a8f7e9")
-		)
-		(pin "3"
-			(uuid "a890420b-1f90-43bb-878b-5680a53191db")
-		)
-		(pin "2"
-			(uuid "73af8730-bbcc-424e-abb3-3a14169ebba8")
-		)
-		(pin "5"
-			(uuid "72e8ae20-5b76-4a8d-b98b-fc5d019b8dfd")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/c4516421-db54-4dfe-859f-f0bebfc15ed5"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 267.97 77.47 0)
 		(unit 1)
@@ -7719,6 +7304,88 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/c4516421-db54-4dfe-859f-f0bebfc15ed5"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SM6T15A")
+		(at 119.38 26.67 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2b14ce2-182c-497f-b0bb-961ad1c0795a")
+		(property "Reference" "D13"
+			(at 121.92 25.3999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SM6T15A"
+			(at 121.92 27.9399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMB"
+			(at 114.3 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf"
+			(at 119.38 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 15Vrwm, DO-214AA"
+			(at 119.38 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "245e6d83-00c6-4649-bff6-c7e90c73c6c3")
+		)
+		(pin "2"
+			(uuid "9def6def-12e0-487c-a587-1632d10ff78c")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4/c4516421-db54-4dfe-859f-f0bebfc15ed5"
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -8695,7 +8362,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "10uF"
 			(at 34.29 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)

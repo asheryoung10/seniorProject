@@ -11,183 +11,6 @@
 		(company "VisualSLAM")
 	)
 	(lib_symbols
-		(symbol "Device:C_Polarized"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized"
-				(at 0.635 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Polarized capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "C_Polarized_0_1"
-				(rectangle
-					(start -2.286 0.508)
-					(end 2.286 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.794) (xy -1.27 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.286 -0.508)
-					(end -2.286 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "C_Polarized_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Diode:SMF7V5A"
 			(pin_numbers
 				(hide yes)
@@ -342,59 +165,36 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:1101A4CQEA"
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "S"
-				(at 19.05 7.62 0)
+			(property "Reference" "H"
+				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Value" "1101A4CQEA"
-				(at 19.05 5.08 0)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Footprint" "1101A4CQEA"
-				(at 19.05 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/1000.pdf"
-				(at 19.05 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "SWITCH SLIDE SPDT 5A 120VAC"
+			(property "Footprint" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -405,8 +205,98 @@
 					)
 				)
 			)
-			(property "Height" "9.91"
-				(at 19.05 -394.92 0)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:875105242006"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "875105242006"
+				(at 8.89 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "CAPAE530X550N"
+				(at 8.89 -96.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -417,8 +307,8 @@
 					(justify left top)
 				)
 			)
-			(property "Manufacturer_Name" "CIT Relay & Switch"
-				(at 19.05 -494.92 0)
+			(property "Datasheet" "https://www.we-online.com/catalog/datasheet/875105242006.pdf"
+				(at 8.89 -196.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -429,8 +319,19 @@
 					(justify left top)
 				)
 			)
-			(property "Manufacturer_Part_Number" "1101A4CQEA"
-				(at 19.05 -594.92 0)
+			(property "Description" "WCAP-PSLP Aluminum Polymer Capacitors PSEC055470M010DVCTBB000; SMT V-Chip; 47 F +/- 20%; 10 V(DC); 2000 h; -55C / +105C; size DxL 5.0 x 5.5; ESR 30 m; Max. Iripple 1970 mA @100 kHz; LC 300 A; DF 8 %"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "5.5"
+				(at 8.89 -396.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -441,8 +342,8 @@
 					(justify left top)
 				)
 			)
-			(property "Mouser Part Number" ""
-				(at 19.05 -694.92 0)
+			(property "Mouser Part Number" "710-875105242006"
+				(at 8.89 -496.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -453,8 +354,8 @@
 					(justify left top)
 				)
 			)
-			(property "Mouser Price/Stock" ""
-				(at 19.05 -794.92 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/875105242006?qs=0KOYDY2FL2%252B0I2dpxCheuQ%3D%3D"
+				(at 8.89 -596.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -465,8 +366,8 @@
 					(justify left top)
 				)
 			)
-			(property "Arrow Part Number" ""
-				(at 19.05 -894.92 0)
+			(property "Manufacturer_Name" "Wurth Elektronik"
+				(at 8.89 -696.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -477,8 +378,8 @@
 					(justify left top)
 				)
 			)
-			(property "Arrow Price/Stock" ""
-				(at 19.05 -994.92 0)
+			(property "Manufacturer_Part_Number" "875105242006"
+				(at 8.89 -796.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -489,22 +390,59 @@
 					(justify left top)
 				)
 			)
-			(symbol "1101A4CQEA_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 17.78 -7.62)
+			(symbol "875105242006_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
-				(pin no_connect line
-					(at 0 -5.08 0)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
 					(length 5.08)
-					(name "NC"
+					(name "+"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -520,9 +458,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -2.54 0)
+					(at 12.7 0 180)
 					(length 5.08)
-					(name "COM"
+					(name "-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -530,24 +468,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "NO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2123,25 +2043,19 @@
 		(uuid "b4370e8c-b298-4a4a-b39b-b269a11cf52d")
 	)
 	(junction
-		(at 153.67 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2df76055-38c5-4bbe-badb-ab0043fe84c8")
-	)
-	(junction
 		(at 17.78 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39af48eb-15d6-48aa-ab6e-70c25ee75c31")
 	)
 	(junction
-		(at 105.41 153.67)
+		(at 99.06 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4381e297-9c0f-49b8-b802-de13a9504d2a")
 	)
 	(junction
-		(at 135.89 166.37)
+		(at 135.89 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "734cffd9-6bab-4a52-9967-c9724c912453")
@@ -2177,16 +2091,16 @@
 		(uuid "b12da939-a3fb-4872-97e2-6cd7871abc3e")
 	)
 	(junction
-		(at 76.2 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b5c9c322-b0fd-4b37-a2e3-1dba3ce52c5d")
-	)
-	(junction
 		(at 63.5 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca60e4df-1e39-42fe-b279-3ed8f31f9ded")
+	)
+	(junction
+		(at 76.2 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddb4d1fe-b9eb-4fe2-9e60-e371b87d07a9")
 	)
 	(junction
 		(at 17.78 83.82)
@@ -2195,10 +2109,16 @@
 		(uuid "f24a725f-e17a-46ec-9f1e-6a4fbdee61de")
 	)
 	(junction
-		(at 157.48 151.13)
+		(at 157.48 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f99797c1-c23d-4a84-8aa4-8a59d2ce388f")
+	)
+	(junction
+		(at 160.02 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc4f6b9f-43f9-44c5-86a0-51e4f768dd34")
 	)
 	(junction
 		(at 17.78 76.2)
@@ -2207,16 +2127,36 @@
 		(uuid "fef058f4-80f3-4112-9c36-b5321222aaa1")
 	)
 	(no_connect
-		(at 134.62 153.67)
+		(at 219.71 96.52)
+		(uuid "1b1a6504-f5aa-45d6-b6ab-7a17dae223df")
+	)
+	(no_connect
+		(at 219.71 93.98)
+		(uuid "36452c14-dd58-4740-be76-11ae6c936031")
+	)
+	(no_connect
+		(at 219.71 91.44)
+		(uuid "573c5fc6-15f0-45c4-8acc-17d15f09d2f8")
+	)
+	(no_connect
+		(at 219.71 86.36)
+		(uuid "701f00be-4e0d-4764-aca5-4af7b83e3f4e")
+	)
+	(no_connect
+		(at 134.62 158.75)
 		(uuid "9344cf75-426a-4295-91ad-75fd52b9b21e")
 	)
 	(no_connect
-		(at 193.04 48.26)
-		(uuid "a2b8015b-175a-432c-97e6-68ea4f24cbd6")
+		(at 219.71 88.9)
+		(uuid "ace27156-d7e7-4569-b2a5-4122e4ae8593")
 	)
 	(no_connect
-		(at 134.62 151.13)
+		(at 134.62 156.21)
 		(uuid "f1c0fb20-11f3-4560-b407-c0c0a19cbadd")
+	)
+	(no_connect
+		(at 219.71 99.06)
+		(uuid "f92f9362-188f-42a9-9a11-cad437c1aef9")
 	)
 	(wire
 		(pts
@@ -2230,33 +2170,13 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 181.61) (xy 120.65 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03e054e7-f006-4493-8065-ef53a123fc08")
-	)
-	(wire
-		(pts
-			(xy 157.48 48.26) (xy 170.18 48.26)
+			(xy 157.48 45.72) (xy 170.18 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0766fe33-5fd2-49ca-ae38-8fd645fda837")
-	)
-	(wire
-		(pts
-			(xy 148.59 91.44) (xy 170.18 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "085ef6b0-85d4-4ef1-aa20-96811e149b0d")
 	)
 	(wire
 		(pts
@@ -2267,16 +2187,6 @@
 			(type default)
 		)
 		(uuid "0fcbb312-73df-42e2-989d-cad081461784")
-	)
-	(wire
-		(pts
-			(xy 153.67 45.72) (xy 170.18 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17812721-aca3-4b33-b180-c1329d5f6113")
 	)
 	(wire
 		(pts
@@ -2300,6 +2210,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 48.26) (xy 160.02 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e9e7221-81f9-4995-85b4-cad1e74988cd")
+	)
+	(wire
+		(pts
 			(xy 190.5 86.36) (xy 194.31 86.36)
 		)
 		(stroke
@@ -2310,7 +2230,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 153.67) (xy 105.41 153.67)
+			(xy 60.96 153.67) (xy 76.2 153.67)
 		)
 		(stroke
 			(width 0)
@@ -2330,17 +2250,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 83.82) (xy 153.67 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "263e46e3-9f97-4172-aa61-58eb1ab24f0b")
-	)
-	(wire
-		(pts
-			(xy 148.59 83.82) (xy 153.67 83.82)
+			(xy 139.7 86.36) (xy 160.02 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2370,17 +2280,27 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 153.67) (xy 76.2 153.67)
+			(xy 139.7 91.44) (xy 170.18 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "396eca09-fc1b-4b8a-a525-188596a79583")
+		(uuid "366a2cc2-1b3e-4992-a3b0-c2f133bfd9b5")
 	)
 	(wire
 		(pts
-			(xy 105.41 179.07) (xy 105.41 153.67)
+			(xy 76.2 166.37) (xy 76.2 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "368b38df-0560-4ed6-994c-2dd933b5ddc9")
+	)
+	(wire
+		(pts
+			(xy 99.06 181.61) (xy 99.06 153.67)
 		)
 		(stroke
 			(width 0)
@@ -2390,7 +2310,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 45.72) (xy 200.66 45.72)
+			(xy 189.23 45.72) (xy 204.47 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2400,7 +2320,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 49.53) (xy 237.49 49.53)
+			(xy 228.6 49.53) (xy 234.95 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2420,17 +2340,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 83.82) (xy 160.02 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54a9b21d-3a66-4a3f-a95c-aaf77e5daf77")
-	)
-	(wire
-		(pts
-			(xy 120.65 179.07) (xy 105.41 179.07)
+			(xy 133.35 181.61) (xy 99.06 181.61)
 		)
 		(stroke
 			(width 0)
@@ -2450,7 +2360,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 86.36) (xy 162.56 86.36)
+			(xy 170.18 88.9) (xy 162.56 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2470,7 +2380,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 166.37) (xy 134.62 166.37)
+			(xy 135.89 171.45) (xy 134.62 171.45)
 		)
 		(stroke
 			(width 0)
@@ -2510,23 +2420,13 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 166.37) (xy 157.48 166.37)
+			(xy 135.89 171.45) (xy 157.48 171.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6d85ecc9-4870-470e-9bf5-6cacf69abe3c")
-	)
-	(wire
-		(pts
-			(xy 198.12 58.42) (xy 204.47 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "753a1a6d-8e3c-426a-bfeb-77c0f3a86c16")
 	)
 	(wire
 		(pts
@@ -2550,23 +2450,13 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 83.82) (xy 160.02 83.82)
+			(xy 76.2 153.67) (xy 134.62 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "791c1b65-cadd-47da-9460-64db627e37d7")
-	)
-	(wire
-		(pts
-			(xy 119.38 81.28) (xy 128.27 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bae932c-52b8-45f4-a4ad-faa5d3082a5b")
+		(uuid "7a0b5559-7836-45b3-884e-4a0a7780de30")
 	)
 	(wire
 		(pts
@@ -2580,16 +2470,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 45.72) (xy 200.66 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c7a6e02-c5de-492a-91e1-5fab13df6bfb")
-	)
-	(wire
-		(pts
 			(xy 17.78 78.74) (xy 17.78 81.28)
 		)
 		(stroke
@@ -2600,17 +2480,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 48.26) (xy 193.04 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91599b2c-3037-4cc6-b2f9-c98f62044dbe")
-	)
-	(wire
-		(pts
-			(xy 134.62 156.21) (xy 134.62 166.37)
+			(xy 134.62 161.29) (xy 134.62 171.45)
 		)
 		(stroke
 			(width 0)
@@ -2620,13 +2490,23 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 46.99) (xy 204.47 46.99)
+			(xy 157.48 83.82) (xy 157.48 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "91aa2d4e-64dc-43e4-82f0-a929c2dd8a75")
+		(uuid "91c42a10-4a1b-47af-82e1-31a698407288")
+	)
+	(wire
+		(pts
+			(xy 160.02 48.26) (xy 170.18 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94251d13-246c-4c2d-9975-7783672aa4e7")
 	)
 	(wire
 		(pts
@@ -2640,7 +2520,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 66.04) (xy 198.12 66.04)
+			(xy 160.02 63.5) (xy 204.47 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2680,7 +2560,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 148.59) (xy 157.48 151.13)
+			(xy 157.48 153.67) (xy 157.48 156.21)
 		)
 		(stroke
 			(width 0)
@@ -2710,16 +2590,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 66.04) (xy 198.12 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1ea2bee-3d88-4eab-bbc0-badd4e5a1630")
-	)
-	(wire
-		(pts
 			(xy 59.69 78.74) (xy 59.69 88.9)
 		)
 		(stroke
@@ -2727,16 +2597,6 @@
 			(type default)
 		)
 		(uuid "b88c6388-059c-4c84-8561-43f64480b9eb")
-	)
-	(wire
-		(pts
-			(xy 148.59 81.28) (xy 157.48 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd203c88-e77f-4fd9-b1d7-6df4fed42301")
 	)
 	(wire
 		(pts
@@ -2760,16 +2620,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 153.67) (xy 105.41 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7d3ddf6-a82d-4f49-b353-a3546fd6c7db")
-	)
-	(wire
-		(pts
 			(xy 88.9 73.66) (xy 88.9 88.9)
 		)
 		(stroke
@@ -2780,27 +2630,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 161.29) (xy 76.2 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb3c3f08-b37f-4c60-9655-b21c918b8fa3")
-	)
-	(wire
-		(pts
-			(xy 157.48 81.28) (xy 157.48 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce1743fb-fade-42fc-90eb-e604d86111ed")
-	)
-	(wire
-		(pts
-			(xy 264.16 49.53) (xy 254 49.53)
+			(xy 264.16 49.53) (xy 262.89 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2810,7 +2640,17 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 86.36) (xy 162.56 116.84)
+			(xy 139.7 83.82) (xy 157.48 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1917762-da65-494c-9824-ad534063fb01")
+	)
+	(wire
+		(pts
+			(xy 162.56 88.9) (xy 162.56 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2850,13 +2690,23 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 151.13) (xy 157.48 166.37)
+			(xy 157.48 156.21) (xy 157.48 171.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "daae5cfc-e8d2-4b0a-bdf9-5b8afbe7f2dc")
+	)
+	(wire
+		(pts
+			(xy 133.35 187.96) (xy 133.35 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e40d0c33-2617-4822-8ccd-490f1794a90d")
 	)
 	(wire
 		(pts
@@ -2907,26 +2757,6 @@
 			(type default)
 		)
 		(uuid "f0652149-3b8e-4dce-9227-7ca27527d2ee")
-	)
-	(wire
-		(pts
-			(xy 119.38 83.82) (xy 119.38 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3472f0b-ef94-4fef-a9ce-498348faaf06")
-	)
-	(wire
-		(pts
-			(xy 105.41 148.59) (xy 134.62 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f38cc6e9-9380-4459-b673-2e46daa8ed83")
 	)
 	(wire
 		(pts
@@ -3217,6 +3047,226 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 87.63 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e734e0e-f81a-444e-b58f-0da1b8837c78")
+		(property "Reference" "H4"
+			(at 90.17 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 90.17 33.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 87.63 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 87.63 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:875105242006")
+		(at 76.2 166.37 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6681fe07-2cd7-43f8-b1d7-ebd04e7bc489")
+		(property "Reference" "C37"
+			(at 80.01 158.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "875105242006"
+			(at 80.01 161.2899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:CAPAE530X550N"
+			(at 172.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/875105242006.pdf"
+			(at 272.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "WCAP-PSLP Aluminum Polymer Capacitors PSEC055470M010DVCTBB000; SMT V-Chip; 47 F +/- 20%; 10 V(DC); 2000 h; -55C / +105C; size DxL 5.0 x 5.5; ESR 30 m; Max. Iripple 1970 mA @100 kHz; LC 300 A; DF 8 %"
+			(at 76.2 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "5.5"
+			(at 472.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "710-875105242006"
+			(at 572.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/875105242006?qs=0KOYDY2FL2%252B0I2dpxCheuQ%3D%3D"
+			(at 672.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 772.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "875105242006"
+			(at 872.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "1"
+			(uuid "7d0b90f0-b36e-47fd-8d60-497c7ffefc1b")
+		)
+		(pin "2"
+			(uuid "e8925562-3a20-415e-867c-7b41c43d4e10")
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 76.2 168.91 0)
 		(unit 1)
@@ -3296,7 +3346,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 116.84 0)
+		(at 162.56 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3307,7 +3357,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c90f332-2752-45e0-b60c-cef669bebf2c")
 		(property "Reference" "#PWR026"
-			(at 162.56 123.19 0)
+			(at 162.56 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +3368,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 121.92 0)
+			(at 162.56 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3328,7 +3378,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 116.84 0)
+			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3339,7 +3389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 116.84 0)
+			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3350,7 +3400,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 116.84 0)
+			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3367,88 +3417,6 @@
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 76.2 157.48 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7fafc4b8-f803-4fc9-9919-261eb01205a2")
-		(property "Reference" "C37"
-			(at 80.01 155.3209 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47uF"
-			(at 80.01 157.8609 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_2917_7343Metric"
-			(at 77.1652 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 76.2 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "603769da-276d-4718-be6f-3250c10f2db7")
-		)
-		(pin "1"
-			(uuid "525d007c-083d-48f8-964a-9b8a7e07292a")
-		)
-		(instances
-			(project "USB_UPS_Raspberry"
-				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
-					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -3537,19 +3505,19 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:1101A4CQEA")
-		(at 177.8 144.78 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 49.53 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
-		(dnp yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b1d8ce3e-4c03-4701-9a35-e001140ecf96")
-		(property "Reference" "S1"
-			(at 196.85 146.0499 0)
+		(uuid "8a7d4063-4ca6-4a4d-9bef-b9db1bfd1c58")
+		(property "Reference" "H7"
+			(at 52.07 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3559,8 +3527,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1101A4CQEA"
-			(at 196.85 148.5899 0)
+		(property "Value" "MountingHole"
+			(at 52.07 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3570,32 +3538,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1101A4CQEA"
-			(at 196.85 239.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.citrelay.com/Catalog%20Pages/SwitchCatalog/1000.pdf"
-			(at 196.85 339.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "SWITCH SLIDE SPDT 5A 120VAC"
-			(at 177.8 144.78 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 49.53 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3605,8 +3549,8 @@
 				)
 			)
 		)
-		(property "Height" "9.91"
-			(at 196.85 539.7 0)
+		(property "Datasheet" ""
+			(at 49.53 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3614,11 +3558,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "CIT Relay & Switch"
-			(at 196.85 639.7 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 49.53 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3626,82 +3569,88 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
-		)
-		(property "Manufacturer_Part_Number" "1101A4CQEA"
-			(at 196.85 739.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 196.85 839.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 196.85 939.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 196.85 1039.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 196.85 1139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "40d86cb2-54c7-42b7-86d1-13016cb0a01f")
-		)
-		(pin "3"
-			(uuid "e9705777-ecf6-4973-8166-fff53ec0dfcb")
-		)
-		(pin "2"
-			(uuid "4cb415f0-66e7-4c30-9ed3-0883d41d6bec")
 		)
 		(instances
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
-					(reference "S1")
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 68.58 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3584ae6-21fb-4c4e-832d-aebb51cfbdd0")
+		(property "Reference" "H5"
+			(at 71.12 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 71.12 33.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 68.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 68.58 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -3853,7 +3802,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:USB1130-15-A")
-		(at 157.48 148.59 0)
+		(at 157.48 153.67 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3865,7 +3814,7 @@
 		(fields_autoplaced yes)
 		(uuid "be53fe45-9da2-411b-9925-c402cfa3c90c")
 		(property "Reference" "J4"
-			(at 146.05 163.83 0)
+			(at 146.05 168.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3875,7 +3824,7 @@
 			)
 		)
 		(property "Value" "USB1130-15-A"
-			(at 146.05 161.29 0)
+			(at 146.05 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3885,7 +3834,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:USB113015A"
-			(at 138.43 243.51 0)
+			(at 138.43 248.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3897,7 +3846,7 @@
 			)
 		)
 		(property "Datasheet" "https://gct.co/files/drawings/usb1130.pdf?v=af75e0ab-3313-4c97-a925-9953a1c7de6b"
-			(at 138.43 343.51 0)
+			(at 138.43 348.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3909,7 +3858,7 @@
 			)
 		)
 		(property "Description" "USB Connectors USB A 2.0 Skt RA High Life 15u\" T Hole W/Shell Stake T & R"
-			(at 157.48 148.59 0)
+			(at 157.48 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3920,7 +3869,7 @@
 			)
 		)
 		(property "Height" "7.24"
-			(at 138.43 543.51 0)
+			(at 138.43 548.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3932,7 +3881,7 @@
 			)
 		)
 		(property "Mouser Part Number" "640-USB1130-15-A"
-			(at 138.43 643.51 0)
+			(at 138.43 648.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3944,7 +3893,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/USB1130-15-A?qs=KUoIvG%2F9IlbUm2WMV7vmzg%3D%3D"
-			(at 138.43 743.51 0)
+			(at 138.43 748.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3956,7 +3905,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)"
-			(at 138.43 843.51 0)
+			(at 138.43 848.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3968,7 +3917,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "USB1130-15-A"
-			(at 138.43 943.51 0)
+			(at 138.43 948.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4007,40 +3956,41 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 135.89 166.37 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "de620a6c-58aa-4a26-b4f2-b2b1a4bbae50")
-		(property "Reference" "#PWR064"
-			(at 135.89 172.72 0)
-			(hide yes)
+		(uuid "d1bd1b21-27a5-4816-be8c-4cf9332ebb61")
+		(property "Reference" "H6"
+			(at 33.02 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "GND"
-			(at 135.89 171.45 0)
+		(property "Value" "MountingHole"
+			(at 33.02 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 135.89 166.37 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 30.48 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4051,7 +4001,82 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 166.37 0)
+			(at 30.48 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "USB_UPS_Raspberry"
+				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 135.89 171.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de620a6c-58aa-4a26-b4f2-b2b1a4bbae50")
+		(property "Reference" "#PWR064"
+			(at 135.89 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 135.89 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4062,7 +4087,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 166.37 0)
+			(at 135.89 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4086,7 +4111,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:B2P-VH")
-		(at 120.65 179.07 0)
+		(at 133.35 181.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4097,7 +4122,7 @@
 		(fields_autoplaced yes)
 		(uuid "f053ce2c-0c8b-478d-99b2-3240c0571b09")
 		(property "Reference" "J5"
-			(at 137.16 179.0699 0)
+			(at 149.86 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4108,7 +4133,7 @@
 			)
 		)
 		(property "Value" "B2P-VH"
-			(at 137.16 181.6099 0)
+			(at 149.86 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4119,7 +4144,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:SHDR2W114P0X396_1X2_786X850X940P"
-			(at 137.16 273.99 0)
+			(at 149.86 276.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4131,7 +4156,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"
-			(at 137.16 373.99 0)
+			(at 149.86 376.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4143,7 +4168,7 @@
 			)
 		)
 		(property "Description" "CONN HEADER VH TOP 2POS 3.96MM"
-			(at 120.65 179.07 0)
+			(at 133.35 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4154,7 +4179,7 @@
 			)
 		)
 		(property "Height" "9.4"
-			(at 137.16 573.99 0)
+			(at 149.86 576.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4166,7 +4191,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 137.16 673.99 0)
+			(at 149.86 676.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4178,7 +4203,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B2P-VH"
-			(at 137.16 773.99 0)
+			(at 149.86 776.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4190,7 +4215,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 137.16 873.99 0)
+			(at 149.86 876.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4202,7 +4227,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 137.16 973.99 0)
+			(at 149.86 976.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4214,7 +4239,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 137.16 1073.99 0)
+			(at 149.86 1076.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4226,7 +4251,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 137.16 1173.99 0)
+			(at 149.86 1176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4332,7 +4357,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 181.61 0)
+		(at 133.35 187.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4343,7 +4368,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7fced07-603a-4862-a907-ce8e408f35d1")
 		(property "Reference" "#PWR065"
-			(at 116.84 187.96 0)
+			(at 133.35 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4354,7 +4379,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 186.69 0)
+			(at 133.35 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4364,7 +4389,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 181.61 0)
+			(at 133.35 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4375,7 +4400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 181.61 0)
+			(at 133.35 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4386,7 +4411,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 181.61 0)
+			(at 133.35 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4643,7 +4668,7 @@
 			)
 		)
 		(pin "3.3V" input
-			(at 170.18 45.72 180)
+			(at 170.18 48.26 180)
 			(uuid "0e0f1e56-571b-47dc-8da1-79e2e9d3ae0a")
 			(effects
 				(font
@@ -4652,8 +4677,8 @@
 				(justify left)
 			)
 		)
-		(pin "VIN" input
-			(at 170.18 48.26 180)
+		(pin "SYSTEM" input
+			(at 170.18 45.72 180)
 			(uuid "049747fc-0983-4094-ad24-1f1c6698adfa")
 			(effects
 				(font
@@ -4672,16 +4697,6 @@
 				(justify right)
 			)
 		)
-		(pin "PG" output
-			(at 189.23 48.26 0)
-			(uuid "c601ebd7-ea97-45ad-8c3b-9a216e41ce77")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(instances
 			(project "USB_UPS_Raspberry"
 				(path "/670ad2a5-a109-48f4-9046-08077d2e5ed4"
@@ -4692,7 +4707,7 @@
 	)
 	(sheet
 		(at 170.18 83.82)
-		(size 20.32 24.13)
+		(size 20.32 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4718,7 +4733,7 @@
 			)
 		)
 		(property "Sheetfile" "Battery.kicad_sch"
-			(at 170.18 108.5346 0)
+			(at 170.18 102.1846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4729,18 +4744,8 @@
 			)
 		)
 		(pin "PACK-" input
-			(at 170.18 86.36 180)
-			(uuid "97867471-32b9-4d30-9b2c-a3899d13b6e4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "PRES" input
 			(at 170.18 88.9 180)
-			(uuid "cdc7ac2f-e528-4a18-a6cc-11f4a3701c95")
+			(uuid "97867471-32b9-4d30-9b2c-a3899d13b6e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4827,8 +4832,8 @@
 		)
 	)
 	(sheet
-		(at 128.27 78.74)
-		(size 20.32 15.24)
+		(at 119.38 81.28)
+		(size 20.32 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4843,7 +4848,7 @@
 		)
 		(uuid "b8949a81-2ec9-4fff-98b2-e442528a67ed")
 		(property "Sheetname" "Battery_Charger"
-			(at 128.27 78.0284 0)
+			(at 119.38 80.5684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4854,7 +4859,7 @@
 			)
 		)
 		(property "Sheetfile" "Battery_Charger.kicad_sch"
-			(at 128.27 94.5646 0)
+			(at 119.38 94.5646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4865,7 +4870,7 @@
 			)
 		)
 		(pin "SYSTEM" output
-			(at 148.59 81.28 0)
+			(at 139.7 83.82 0)
 			(uuid "267b8678-a3e3-48d8-92dd-163c86741d12")
 			(effects
 				(font
@@ -4874,8 +4879,8 @@
 				(justify right)
 			)
 		)
-		(pin "ADAPTER" input
-			(at 128.27 81.28 180)
+		(pin "PPHV" input
+			(at 119.38 83.82 180)
 			(uuid "c1c19a51-be30-481c-9d0a-96234e18b771")
 			(effects
 				(font
@@ -4884,8 +4889,8 @@
 				(justify left)
 			)
 		)
-		(pin "P_BATT" bidirectional
-			(at 148.59 91.44 0)
+		(pin "PACK+" bidirectional
+			(at 139.7 91.44 0)
 			(uuid "33098af3-0893-4a5e-9ba9-13894b9fea50")
 			(effects
 				(font
@@ -4894,8 +4899,8 @@
 				(justify right)
 			)
 		)
-		(pin "VREF" output
-			(at 148.59 83.82 0)
+		(pin "3.3V" output
+			(at 139.7 86.36 0)
 			(uuid "7193aa3c-31df-4032-9678-eebee325584f")
 			(effects
 				(font
@@ -4913,8 +4918,8 @@
 		)
 	)
 	(sheet
-		(at 237.49 46.99)
-		(size 16.51 5.08)
+		(at 234.95 46.99)
+		(size 27.94 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4929,7 +4934,7 @@
 		)
 		(uuid "bcde4c17-5920-4985-9e2f-9ce573c23c4d")
 		(property "Sheetname" "Ideal Diode"
-			(at 237.49 46.2784 0)
+			(at 234.95 46.2784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4940,7 +4945,7 @@
 			)
 		)
 		(property "Sheetfile" "IdealDiode.kicad_sch"
-			(at 237.49 52.6546 0)
+			(at 234.95 52.6546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4950,8 +4955,8 @@
 				(justify left top)
 			)
 		)
-		(pin "VIN" input
-			(at 237.49 49.53 180)
+		(pin "EFuse_Power_Out" input
+			(at 234.95 49.53 180)
 			(uuid "b0647dc7-5857-4ad2-91b9-7ccdbf648daf")
 			(effects
 				(font
@@ -4961,7 +4966,7 @@
 			)
 		)
 		(pin "VOUT" output
-			(at 254 49.53 0)
+			(at 262.89 49.53 0)
 			(uuid "8517b80b-806c-4816-a666-a9a831634654")
 			(effects
 				(font
@@ -4980,7 +4985,7 @@
 	)
 	(sheet
 		(at 95.25 81.28)
-		(size 17.78 15.24)
+		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5006,7 +5011,7 @@
 			)
 		)
 		(property "Sheetfile" "USB-PD.kicad_sch"
-			(at 95.25 97.1046 0)
+			(at 95.25 92.0246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5046,7 +5051,7 @@
 				(justify left)
 			)
 		)
-		(pin "15VUSB" output
+		(pin "PPHV" output
 			(at 113.03 83.82 0)
 			(uuid "1451fb1d-a1f9-437b-beb4-0df4e7e17020")
 			(effects
@@ -5065,8 +5070,8 @@
 		)
 	)
 	(sheet
-		(at 204.47 44.45)
-		(size 24.13 15.24)
+		(at 204.47 43.18)
+		(size 24.13 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5081,7 +5086,7 @@
 		)
 		(uuid "f9bec4ef-2fe7-483e-ad73-e4e4ea01d83f")
 		(property "Sheetname" "EFuse"
-			(at 204.47 43.7384 0)
+			(at 204.47 42.4684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5092,7 +5097,7 @@
 			)
 		)
 		(property "Sheetfile" "EFuse.kicad_sch"
-			(at 204.47 60.2746 0)
+			(at 204.47 65.3546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5102,8 +5107,8 @@
 				(justify left top)
 			)
 		)
-		(pin "VIN" input
-			(at 204.47 46.99 180)
+		(pin "POWER" input
+			(at 204.47 45.72 180)
 			(uuid "b9107050-a6f7-43f7-9d16-855ed2b20a97")
 			(effects
 				(font
@@ -5123,7 +5128,7 @@
 			)
 		)
 		(pin "3.3V" input
-			(at 204.47 58.42 180)
+			(at 204.47 63.5 180)
 			(uuid "a0310850-7ba8-48ab-9e62-12dfc6e089bb")
 			(effects
 				(font
